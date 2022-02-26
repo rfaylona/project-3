@@ -1,0 +1,926 @@
+,business_id,name,address,city,postal_code,latitude,longitude,stars,tips,cusines
+32,r_sOAVfNPaXrpjznZpuxeg,Papi Chulo's,611 NW 13th Ave,Portland,97209,45.5274187,-122.6844472,4.0,Birra burrito. You're welcome.,Mexican
+50,UKIBQrRbY_jo52yHWcZE8g,Noah Halal,310 SW 5th Ave,Portland,97204,45.5210363,-122.6766335,4.0,Food truck moved to new pod on SE Powell and 35th,Mediterranean
+145,sJNMic9YAN7rSy8RnHZ0qw,Moon Dream,3232 NE 82nd Ave,Portland,97220,45.5459972,-122.5785237,4.5,,American (New)
+171,uMPGs_Jc1fBoxeGrCKqRiw,Panda Express,1462 NE 122nd Ave,Portland,97230,45.533263,-122.5373376,2.0,"Morgan was really really sweet, amazing customer service  will deff be coming back!",Chinese
+234,zfasUshwU5NhibqKVQ7FIw,Chopsticks,3616 SE Hawthorne Blvd,Portland,97214,45.5119301,-122.6263452,3.0,,Chinese
+235,Ie3LnWkmTyUf6zL7tOVP2g,Gonzo At Bar XV,1527 SW 2nd Ave,Portland,97204,45.5228622485,-122.6724387118,4.5,,Mediterranean
+323,sPAGskLJD0pSDl_QotGk3A,Reo's Ribs,11140 SE Powell Blvd,Portland,97266,45.495806,-122.548422,2.5,,American (Traditional)
+364,WRHUIR-ik25cA445KC7-3Q,Tabor Hill Cafe,3766 SE Hawthorne Blvd,Portland,97214,45.51196,-122.624594,3.5,,American (Traditional)
+384,GXR2Jv645UiQr971MZyHWA,Basilisk,820 NE 27th Ave,Portland,97232,45.5290499433,-122.638252,4.5,Temporarily closed due to pandemic.,American (New)
+484,fCBR2YYEEZ1zojjz6Z_dVA,Biscuits Cafe,17502 SE McLoughlin Blvd,Portland,97267,45.3956555,-122.6159695,3.5,Food was good but service was horrible.,American (Traditional)
+552,d1CTYaYS_rwu4gHzFq-rYQ,Chu's Eatery,17110 SE Powell Blvd,Portland,97236,45.4924861,-122.4873637,3.5,Love their crab puffs!,Chinese
+578,5nUjcxjMpcuMkxfH1YWlUg,Jalapeño Grill,14919 SE Stark St,Portland,97233,45.5193294672,-122.5095614791,3.5,,American (Traditional)
+582,fuT9DHrcCySzBrNxMyJmkg,Chompers Growlers & Cantina Cantinflas,901 N Anchor Way,Portland,97217,45.6031466,-122.6762632,4.0,"Very good quesadillas.services is very nice, very friendly people.",Mexican
+645,MkykeeIir_t7iat5gb7liA,Umai Japanese Twist,3714 SW Macadam Ave,Portland,97239,45.4962094,-122.6725594,4.5,"Tokyo Curry w/ Chicken rocked my world
+Been thinking about it since",Japanese
+687,32bsFaGx_nRU-7c7l4Cj2Q,Jin Jin Deli,"8220 SE Harrison St, Ste 138a",Portland,97216,45.5082178,-122.5784607,4.5,Looks like theyre all closed up.,Chinese
+851,7HEd7zVZqTtMdjmA0saluw,Kay's Bar,6903 SE Milwaukie Ave,Portland,97202,45.4738873,-122.6489963,4.0,They make mean Mules so if you're into that come on down and get trashed.,American (Traditional)
+892,LNRg3-yquDP_iBJf10yHWA,MacTarnahan's Taproom,2730 NW 31st,Portland,97210,45.5415249,-122.7128905,3.5,,American (Traditional)
+893,427cd3XUT2DFlnTXUSw4jg,Koji Osakaya,"1000 SW Broadway, Ste 110",Portland,97205,45.5168957,-122.6805938,3.0,,Japanese
+949,wlq4RoD6t9ig1WiV7MZWwg,Beaverton Charburger,6050 SW Hall Blvd,Beaverton,97008,45.4759361,-122.8049592,3.5,"Big tasty burger. What more could you want? 
+Egg rolls of course.",American (Traditional)
+1009,GvBTwynyjalNWx1u7kXEBg,Suki Ramen,8145 SE 82nd Ave,Portland,97266,45.4636025,-122.5796078,4.5,Their ramen is delicious,Japanese
+1016,UXTQ6_CJiCNq3ovB6_-K6g,UniCart,SW Ash and 3rd,Portland,97204,45.5222548,-122.6733847,4.5,,American (Traditional)
+1021,7Uey3OQfLxJgKE8KcFqUqA,Taco Del Mar,10215 NE Cascades Pkwy,Portland,97220,45.5726379,-122.5570851,3.0,,Mexican
+1034,AV3Foa7I7T0NX5WRtOH04A,Sushi Town,"18033 NW Evergreen Pkwy, Ste M",Beaverton,97006,45.536265,-122.8616695,3.5,,Japanese
+1038,XSNlls8X7IBVM-5BeuPK0A,Falafel Express,11963 SW Pacific Hwy,Tigard,97223,45.4338743,-122.765965,4.5,Best falafel and shawarma anywhere!!!!!,Mediterranean
+1040,JD1_uwSON4JmLVFofRZczA,Romano's Macaroni Grill,300 SW Yamhill St,Portland,97255,45.5175274,-122.6762335,3.0,,American (Traditional)
+1083,DMqzf-NXhsIWmoXSV7GS2Q,Clarklewis,1001 SE Water Ave,Portland,97214,45.5153279201,-122.6660654929,4.0,Best restaurant ever! Their duck is to die for,American (New)
+1089,luOZQ9YBrWwP8mYrS4rNoA,Happy Fortune,10420 SW Barbur Blvd,Portland,97219,45.4504592,-122.7270663,3.0,,Chinese
+1094,5fHZLHjlFmLfi78ibVyMMw,Green Leaf Chinese Cuisine,SW 9th And Alder St,Portland,97205,45.5206108058,-122.6813005909,3.5,,Chinese
+1292,HXpqpRy579Qy5mnNlVIuPA,Michoacan,7008 N Interstate Ave,Portland,97217,45.5740388,-122.6817924,3.0,,Mexican
+1393,oM2M_aTcK1DrsRnaizQVKw,Mad Greek Deli,18450 NW W Union Rd,Portland,97229,45.5577344,-122.867101,3.5,,Mediterranean
+1409,r1VBBIelTdjwtqE4pKwghA,Ramen Ryoma,10500 SW Beaverton Hillsdale Hwy,Beaverton,97005,45.4856519646,-122.7847966924,4.5,Killer Spicy Ramen was soo damn good!,Japanese
+1546,FfBb8LED4sZptpKQnp8ODQ,Baja Fresh,12286 SW Scholls Ferry Rd,Tigard,97223,45.442747,-122.800889,3.0,"Incorrect item delivered; asked for Baja salsa, received verde.",Mexican
+1605,L64B6cjL1pQ1IvoqMojnig,OUIBar + KTCHN,1455 SW Broadway,Portland,97201,45.5142749723,-122.6824226168,4.0,"Surprised by the Crater Loon, not too sweet even though it was made with my favorite sweeter syrup, elderflower!",American (Traditional)
+1612,DDYQjAiMDKu7SlZoTdCKsA,Joseph & Brian's Diner,6311 SW Capitol Hwy,Portland,97239,45.4787204,-122.6949984,4.0,,American (Traditional)
+1632,_IkPghLfySEgEDrg9RzipA,Saigon Pearl Restaurant & Lounge,2204 SE 82nd Ave,Portland,97216,45.5070267,-122.5785967,3.5,,American (New)
+1652,Aw7k9hYGOp2eNNO9SJXqag,Lightning Will Bar & Grill,305 NW 21st Ave,Portland,97209,45.5251727093,-122.6945668902,4.0,Taxi Tuesday is where it's at! 2x tacos and a Tecate for $5?!!,American (Traditional)
+1655,46papwYigu0NWzd0WV5kEA,West Cafe Taqueria,1201 SW Jefferson St,Portland,97201,45.5166958,-122.686474,3.5,,Mexican
+1745,VJJ3_oNesS9bvIlayL0kQA,The Waypost,3120 N Williams Ave,Portland,97227,45.5457673181,-122.6664848478,4.0,,Mexican
+1821,0lXTBIqLkPtSyKQDOYeosQ,Mama Chow's Kitchen,300 SW 2nd Ave,Portland,97204,45.5206428,-122.6731087,4.5,The garlic noodles with lollipop chicken is a must have there! I'll be back :-),Chinese
+1839,Evkn2Rlxmu25wlHnl5KC7A,Township and Range,2422 SE Hawthorne Blvd,Portland,97214,45.5120074,-122.6410808,4.0,,American (Traditional)
+1864,YP-hmecnBsb_zr2mBdh6Ow,Anna Bannanas NW,1214 NW 21st Ave,Portland,97209,45.5315957,-122.6943739,4.0,If I could give zero stars I would.,American (Traditional)
+1867,6W_Dcu-kcPa4QzwDg4kjow,Wilfs Restaurant & Bar,800 NW 6th Ave,Portland,97209,45.5286288551,-122.6762887139,3.5,,American (New)
+1872,3tMzCPeeSkgJZoUcK-_F6Q,Diamond Thai,The Green Castle Food Ct,Portland,97232,45.5582948794,-122.5988388062,3.5,,Thai
+1915,K4UY12n0i2UOXLNc-7HpnA,Pok Pok Wing,8250 SW Barbur Blvd,Portland,97219,45.465248,-122.697969,3.5,Closed,Thai
+1943,5z_6Kx3648C4tfBzD0FgRw,Swank Restaurant,808 SW Taylor Ave,Portland,97205,45.5181701605,-122.6817070818,3.5,,American (New)
+1996,O1B-lQ37RoHLis-orL43Cg,Red Robin Gourmet Burgers and Brews,"10005 NE Cascades Pkwy, Ste A",Portland,97220,45.5735774,-122.5593626,3.0,,American (Traditional)
+2007,RpECLdpXyIW650_aX6zlIg,Thai Smile Restaurant,1639 NW Glisan St,Portland,97209,45.5265674,-122.68816,3.5,,Thai
+2021,zwCnvvz9eEgRsnmqijRDbA,The Alameda Cafe,4641 NE Fremont St,Portland,97213,45.5483756,-122.6152097,3.5,,American (New)
+2154,XvxbrfhzCZ4iLOjrcTi3Ww,Wasabi Sushi PDX,3448 NE Sandy Blvd,Portland,97232,45.5323473,-122.6282818,4.0,My go-to place for sushi!,Japanese
+2234,nkqaLepNTSrUYuZkzbBR5A,Ole Frijole,4125 NE Killingsworth St,Portland,97211,45.563038399999996,-122.6208805,4.0,Inexpensive good quality food. First time here and I will most definitely come back.,Mexican
+2241,Dqd7NpbF6AnI18RIP1XNig,Slate,830 N Shaver Street,Portland,97227,45.5519524,-122.6752814,4.5,,American (New)
+2275,RA2Wg5Cio8xfcK9FE3ScLg,La Salsa Mexican Grill,6036 SE Division St,Portland,97206,45.5052459,-122.6008666,3.5,,Mexican
+2277,9U9RUKDf6a8vadpBGDMQSQ,Fuego Food Carts,701 SW 6th Ave,Portland,97205,45.5190822,-122.6794909,4.0,,Mexican
+2279,qRFM_PLwkz-S6HtsYI_2PQ,Taqueria Rico Taco,111 SE 181st Ave,Portland,97233,45.5213051,-122.4774686,3.5,Good food but their tortillas always breaks on tacos,Mexican
+2374,EnTLBzN6aQV-TKGIOABbXA,Zibas Pitas,SW 9th Ave & SW Alder St,Portland,97205,45.5204116,-122.6808017,4.0,,Mediterranean
+2379,7O3rMVJ07cbtrYzoHhLR-A,Buffalo Wild Wings,327 SW Morrison St,Portland,97204,45.5185331,-122.6761788,3.0,This place is wayyyyy better than pok pok nigga on me,American (Traditional)
+2388,Q_A8Sr23g4vyrw3XXaWSRw,Red Robin Gourmet Burgers and Brews,10100 SW Washington Square Rd,Portland,97223,45.4473306,-122.7789219,2.5,We ordered delivery and rec'd sub-par food.,American (Traditional)
+2397,n9CA0FFHA6nwtiLcj4kzbw,Dr Feelgood's Pub,20419 SW Tualatin Valley Hwy,Beaverton,97003,45.496996,-122.887104,2.5,Miss you guys,American (Traditional)
+2407,abl9mcFLfIUAqcXjlb2Jgw,Metrovino,1139 NW 11th Ave,Portland,97209,45.5313623759,-122.6826627674,3.5,,American (Traditional)
+2446,Pk7Bx8DeBieskgnr9_B_cQ,Ngoc Han Bun Bo Hue,"8230 SE Harrison St, Ste 315",Portland,97216,45.5078786,-122.5785353,4.0,,Vietnamese
+2464,Jelhk2X7EJIMwUlO8RAN5g,Fuller's Burger Shack,10131 NE Cascades Pkwy,Portland,97220,45.5731634,-122.5575475,4.0,,American (Traditional)
+2502,2nbPJZIKQu4Lly067SZxMg,Green Wok,11137 SW Capitol Hwy,Portland,97219,45.4449232,-122.7274646,4.0,,Chinese
+2549,fzfDmwHJCiLat4bZ5gffbQ,Market Restaurant,200 SW Market St,Portland,97201,45.511598,-122.678607,4.0,,American (New)
+2609,gUJYDMLaeUv9h2I4AWZR9Q,Pho Saigon Xua,5253 SE 82nd Ave,Portland,97266,45.4842142,-122.5800716,4.5,,Vietnamese
+2624,YjmT2LbV-hrXswXvxLCRYA,Hash It Out,7316 N Lombard,Portland,97203,45.5875709,-122.7423628,4.0,,American (Traditional)
+2720,OCQWUtbRTkk0HqbjjZb0UA,La Costita,17102 SE Powell Blvd,Portland,97236,45.4923275,-122.4883038,4.0,,Mexican
+2755,GdhT2vJ0a8FQ9F-ksySgCQ,Rip City Grill,6036 SE Division St,Portland,97206,45.505216,-122.6008952,4.5,This food is dang good.,American (Traditional)
+2814,IUh58pSSkm1pROi7vieVDw,Spicy Thai,12406 SW Broadway St,Beaverton,97005,45.4873779,-122.8042387,4.5,"Good Food., 
+Amazing spicy levels.
+Would definitely go back.",Thai
+2843,BPOIEtIMqUkI7fk85Gfwrw,Eastern Cathay Restaurant and Lounge,1411 NE 82nd Ave,Portland,97220,45.5330661,-122.579454,3.0,,Chinese
+2844,oE4Pcf8xjSaG0hQ230fMvg,Best Teriyaki,15020 Bangy Rd,Lake Oswego,97035,45.4169763,-122.742151,3.0,,American (New)
+2866,vJftkizK0dSwfMbYdxdQ2g,El Perico Y Taqueria,12000 SW Allen Blvd,Beaverton,97005,45.4758115,-122.8007144,3.0,,Mexican
+2876,RvTZl0uOcBfjOTa10wwt-g,Banya Japanese Restaurant,8166 SW Hall Blvd,Beaverton,97008,45.46122,-122.7933748,4.0,"Nice dinner, quality of fish was pretty good. The ume shiso roll is very tasty.",Japanese
+2898,OYdlAEaoxDxW4aR0wY4VFA,El catrin,600 SE 146th Ave,Portland,97233,45.5184381,-122.5121677,4.0,,Mexican
+2967,t6r5EGcPCSXqLf4bNeaw0A,Anna's Island Cafe,4715 N Lagoon Ave,Portland,97217,45.5571168,-122.702709,4.0,,American (Traditional)
+3053,Xge6ajeuR7CEio9vSdFsJA,Verde Cocina,3746 N Mississippi Ave,Portland,97227,45.5501839846,-122.6753724961,3.5,Food was frwah and well prepared but lacking in flavor,Mexican
+3083,2IOheCGC2vPrbbppEDyhoA,EL Sultan,SE 52nd And Se Foster,Portland,97206,45.4958362919,-122.6087465496,4.0,,Mediterranean
+3093,xRvbrDDE32cBN8ehgv-UGQ,Rock Creek Corner,18515 NW W Union Rd,Portland,97229,45.5582443,-122.8678832,4.0,"Tasty, great service, bistro fare 
+Highly recommend!",Mediterranean
+3102,u9s4_IR77drtWqZjm-EwHA,Star Kitchen Thai Food,3625 NE Martin Luther King Jr Blvd,Portland,97212,45.5493523,-122.6618556,5.0,,Thai
+3282,gHuYY52ytiHgO-BLMyNYIA,El Local,,Portland,97206,45.4856372,-122.5946255,4.5,,Mexican
+3311,bg_YgINQ5X5s5ZfYAb-ifw,Marinepolis Sushi Land,7194 SW Hazelfern Rd,Portland,97224,45.3944013,-122.7503309,2.5,,Japanese
+3313,ikNAoGu33Fp7lL2ask3fpw,Cuu Long Vietnamese,2922 SE 82nd Ave,Portland,97266,45.5010963,-122.5782325,2.5,,Vietnamese
+3314,f01KbEnhy0SgLYu2ht_pbw,The Globe,2045 SE Belmont St,Portland,97214,45.5166391,-122.644569,4.0,,American (New)
+3419,p0ciROd-RcqVl_ajy8ZFUw,OMG Oregon Made Grub,2671 NW Vaughn St,Portland,97210,45.5369556,-122.7061033,4.0,"I went there once and asked for my wrap to be cut in half.  The person said additional 50 cents and then when I asked ""Can the two halves be wrapped separately?""  Another 50 cents.  I will not be going there again.  The upcharge for sandwich paper is not worth a dollar.  They'll nickel and dime you for anything.",American (New)
+3452,Va3kLTdlWPeRYaG1UprVtw,Oriental Food Concessions,5205 SE Foster Rd,Portland,97206,45.4956226388,-122.6084618963,3.5,,Japanese
+3517,IZvy1p67lrSFhRqgYn8WJQ,Taiyou,4057 N Mississippi Ave,Portland,97227,45.5529744,-122.6758334,2.5,,Japanese
+3542,xaGP8Dw_U-rBv3StDHRwzw,Uno Mas,2329 NE Glisan St,Portland,97232,45.5266741779,-122.6416604329,3.5,,American (New)
+3642,JdkGmZ4fOUKz7dLQQFUCBQ,Got Pho?,3634 NE Sandy Blvd,Portland,97232,45.5332833,-122.6258607,3.5,,Vietnamese
+3689,19jEdOQozuS6E1kdtF6L1Q,Ton Kao Thai,113 SE 28th Ave,Portland,97214,45.5217326214,-122.6376842335,4.0,Pretty slow and mediocre-,Thai
+3722,bVWKty5Md1NGeR76uD-z1w,Big's Chicken,4606 NE Glisan St,Portland,97213,45.5261224,-122.615462,4.0,Great food,American (Traditional)
+3730,zBtLEkSY1eIk8mxs435YVw,Tortilla Flats on Glisan,7901 N E Glisan St,Portland,97213,45.5265653991,-122.5822711363,2.0,,Mexican
+3740,aaZ_ey62NgrHqKaCUgNmGA,AFURI IZAKAYA - Beaverton,12555 SW 1st St,Beaverton,97005,45.4865259,-122.8057147,3.5,Showed up to order at 9:20 PM and the employees were already cleaning up. Do not come at this time.,Japanese
+3805,R1HKtgJ3vfTezsr6w9RNKw,Portland Seafood Company,9699 SW Washington Square Rd,Tigard,97223,45.449383,-122.780636,3.5,The drink n food there is great  I would recommended,American (Traditional)
+3859,oEzKiacCFcrQaGQNLxFTLA,The Daily Planet,11312 SE Powell Blvd,Portland,97266,45.4964074,-122.5466362,3.5,Good food,American (New)
+3876,INCbiW0gtxE9Gun3jNmnEA,Old Salt Market Place,5027 NE 42nd Ave,Portland,97218,45.5593155055,-122.6206995927,4.0,,American (New)
+3917,Eou2gm3wxqdRqiIO8_jy4Q,Mashita Teriyaki 5,3010 NW Nicolai St,Portland,97210,45.5382202,-122.7126793,4.5,"Simple, no frills, good value place to eat.",Chinese
+3927,cbYriFa6RrVU-rwFrQ03eg,Norm's Garden,7710 SW Barbur Blvd,Portland,97219,45.468561,-122.6920443,3.5,,Chinese
+3951,qRgF3_OIeaFrZ_mZTgkE1w,Rice Time Oriental Grill,9203 SW Nimbus Ave,Beaverton,97008,45.4538031,-122.7898284,4.0,,Japanese
+4113,bD_3BxWL2Z3JmiTFGiCt9g,Chin's Kitchen,4126 NE Broadway St,Portland,97232,45.5349717,-122.6207113,3.5,"Had amazing wings, dumplings, and noodles here. Highly recommend it all.",Chinese
+4123,kcvcKj8-44IdD2kw844Bfg,La Piñata Takos,432 SW 3rd Ave,Portland,97214,45.5198475,-122.6742938,4.5,,Mexican
+4171,NFb4zqgY-P2A_ISUnJQsnw,La Parrilla Kitchen,3244 NE 82nd Ave,Portland,97220,45.546156515,-122.5785767287,5.0,Great food !!! Wonderful service. We will be back,Mexican
+4260,YKrKQ5opZHxHZj4ayn-2Mg,Area 52 Bar & Grill,6920 SE 52nd Ave,Portland,97206,45.472868,-122.6094491,3.5,,American (Traditional)
+4283,lhhKGWNWDDb0T0E3o3qQlg,Thai Chili Jam,8148 SW Hall Blvd,Beaverton,97008,45.4612007,-122.7934474,3.5,,Thai
+4286,3S60OPCLwosvOp0sJbU4Vw,Domaine Serene Wine Lounge Lake Oswego,300 1st St,Lake Oswego,97034,45.4182298277,-122.6647042024,4.0,,American (New)
+4454,pNT9yivSNb4BlPGI9kr2aA,Muchas Gracias,707 NE Weidler St,Portland,97232,45.5345208,-122.6583237,2.5,Super great traditional Mexican food for amazing prices. Everything you could want.,Mexican
+4571,JTNfXNofJDYI67VC62aEiQ,Double Dragon,1235 SE Division St,Portland,97214,45.5050654,-122.6528561,4.0,House ramen and Hahn mi. That's all you need to know.,Vietnamese
+4595,q0XXRl0r_uf7mxgqaPAlYg,Yeung's Lotus Express,"2308 Lloyd Ctr, F 15",Portland,97232,45.5316492,-122.6545497,2.5,,Chinese
+4633,wwpu_CYvAGLdau657UFLJg,Su Casa Taqueria Cart,Se 82nd Ave,Portland,97215,45.5214883172,-122.5793552399,4.5,cash only.,Mexican
+4639,vEKv6kSJH3jDFXAL7Oocvw,Kyoto Sushi,11003 SE Division St,Portland,97266,45.504485,-122.5499298,4.0,Soooo good,Japanese
+4861,_EJE_CLiPKzGDmuZOTH3Qw,Fife,4440 NE Fremont St,Portland,97213,45.5481705,-122.617151,4.0,,American (New)
+4917,tSsCVhMFfCa3RO38NAacDA,Spicy World,10743 SW Beaverton Hillsdale Hwy,Beaverton,97005,45.4865496,-122.7871964,3.5,,Chinese
+4920,Z_9NR4aQniiYPQMao0kzOg,Tamale Boy,"7000 NE Airport Way, Concourse D",Portland,97218,45.5892013,-122.5934769,2.0,Soupy carnitas. Need I say more?,Mexican
+4927,lmfaXAcr5fR2bczIYw_dkg,Baba's Mediterranean Grill,10215 NE Cascades Pkwy,Portland,97220,45.5727093,-122.5570383,4.5,Good food and good atmosphere,Mediterranean
+4990,6VfixDFFcl-db41_sxfibw,Tacos & More,11640 SW Pacific Hwy,Tigard,97223,45.43808,-122.754216,4.5,,Mexican
+4995,ubRJzD1tJD9G2XaO7NxqBg,Muchas Gracias,5226 SW Beaverton Hillsdale Hwy,Portland,97221,45.4870335,-122.7305757,2.0,,Mexican
+5020,ovu9e3gaB7SW863QT4FgKQ,G-Love,1615 NW 21st Ave Portland Or,Portland,97209,45.534323,-122.69495,4.5,The food and drinks here are great. Their outdoor seating is nice!,American (New)
+5178,D2C0RtX8ptQMtOA8c-m3iQ,McMenamins Blue Moon Tavern & Grill,432 NW 21st Ave,Portland,97209,45.5261782,-122.6940895,3.0,Good food and friendly staff!,American (Traditional)
+5182,7RZedyazzahlSUja9-rWhg,Ten 01,1001 NW Couch St,Portland,97209,45.5237805,-122.6812412,4.0,,American (New)
+5197,jABFzSWTn9mIMDEEm8GV-A,Chipotle Mexican Grill,1933 W Burnside St,Portland,97209,45.5232658614,-122.691125,2.5,If you plan on relaxing and eating your meal inside the Chipotle make sure you get there before 9pm. After that they will kick you out of the comfy booths. Even though they're open until 10pm. That's what happened to me.,Mexican
+5249,Jo8rPbHdtJpXfxvgYW-lUw,Happy Teriyaki,7217 SE 82nd Ave,Portland,97266,45.4707221985,-122.5794067383,3.0,,Chinese
+5260,EPGKI3NCZzvgnIDgtD4Ptg,Al Hawr,3500 SW River Pkwy,Portland,97239,45.4976388,-122.6694032,4.5,Nice outdoor seating and the food was delicious. thoroughly enjoyed it!!!,Mediterranean
+5377,Cqg7tm82Md98lhniKfyBtQ,Mandarin House,"120 SW Ankeny, Second Fl",Portland,97204,45.5222149,-122.6716192,4.0,This place is 京華樓 in Chinese,Chinese
+5391,LWUE4u9NZZMSocMP8TU2kg,Speakeasy Bar & Grill,15680 SW Upper Boones Ferry Rd,Lake Oswego,97035,45.406132,-122.7456231,3.5,"Fuck this shit hole, umm i mean i hope it gets knocked down asap",American (Traditional)
+5413,VpSi64jSJr_AB1Z7ORZXAQ,PeemKaew Thai,323 NW Park Ave,Portland,97209,45.5255798452,-122.6793387808,3.5,,Thai
+5414,SjrVyIeYff2jEWhdBCgXPA,El Burrito Loco,3126 NE 82nd Ave,Portland,97220,45.5449333,-122.5785098,4.0,,Mexican
+5434,Ei3BQGdms6Zqp58iMMAR4A,H5O bistro & bar,50 SW Morrison St,Portland,97204,45.5173366,-122.6733739,3.5,,American (New)
+5503,gEhTMF0qAcXnsoTUOQcnTw,Chit-Chat Cafe,3390 NE Sandy Blvd,Portland,97232,45.53202,-122.6289892,3.5,,American (Traditional)
+5545,8qEi1CFucFBy4YrEz0wYDw,Super Deluxe,5009 SE Powell Blvd,Portland,97206,45.4977942232,-122.6110754,3.5,Check your bag before you leave the window.,American (Traditional)
+5565,oVR88-9ndF5qSkJYOV7Phg,Cafe Bon Appetit - University of Portland,5000 N Willamette Blvd,Portland,97203,45.5721,-122.7258474,3.0,,American (New)
+5632,iis2N7u4j8L18wNCz8GGJg,Toji Korean Grill House,4615 SE Hawthorne Blvd,Portland,97215,45.5122956,-122.6146727,3.5,Quality!,Vietnamese
+5753,8FKy64Hq8WCOZfgoBQ_WxA,Infierno Bonito,3954 N Williams Ave,Portland,97227,45.5520454,-122.6667241,4.5,,Mexican
+5820,3OhrI5CKbpgyy613lkneqA,Taqueria Nueve,727 SE Washington St,Portland,97214,45.5187560625,-122.6580585951,4.0,Great food.   With a nice flavorful twist.  Friendly staff.  Will be back,Mexican
+5881,6xk8K08Q1l2j9DXIA5ePKQ,Powell's Seafood Restaurant,6633 SE Powell Blvd,Portland,97206,45.4976459,-122.5948754,4.0,Beat beef fried rice ever! Never fails,Chinese
+5900,IBtiaOtA47ZVuojFI5Xueg,Sandoval's Cafe & Cantina,460 SW Miller Rd,Portland,97225,45.5162892,-122.753478,3.5,"Very friendly staff, great food, and a great atmosphere!",Mexican
+5909,UcLWgMvfvIFvHvDEHjV0Lw,A Little Bite Of Thai,12425 SW Main St,Tigard,97223,45.4304423,-122.7718902,5.0,,Thai
+5915,0nQ0cuUZUhUdr6d5PvDQYA,FuddoYama Ramen,8610 SW Hall Blvd,Beaverton,97008,45.4581837,-122.7837615,4.0,Our favorite ramen shop!,Japanese
+5984,Y0KX_U0kwlAUNa57T2nswg,Juan Colorado,"16165 SW Regatta Ln, Ste 1000",Beaverton,97006,45.5178109403,-122.8437798098,3.5,Over priced shit. I would never came here again.,Mexican
+6021,J9W4fPHfZlhwwtDmJYUaYQ,Cha Ba Thai,3024 NE Alberta St,Portland,97211,45.558887,-122.63425,3.5,Alberta Street,Thai
+6026,sF5SdJ42ZxJxi0n1-4GhAg,The Sultan Café,1500 NW 18th Ave,Portland,97209,45.5338485,-122.6892105,4.0,Fantastic. The chai is amazing and they are open.,Mediterranean
+6031,AGIULp3c8GX5Y1aNtz39Zw,Milwaukie Teriyaki,3120 SE Milwaukie Ave,Portland,97202,45.5004152,-122.6539623,3.0,,Chinese
+6141,wmOeWwUD3RtO8xtzuBDXSA,La Fogata,"3905 SW 117th Ave, Ste H",Beaverton,97005,45.490841,-122.7985521,3.0,,Mexican
+6175,T415RZurg108SuYO3n3n4Q,Sushi Hana,11705 SW Pacific Hwy,Portland,97223,45.4376440145,-122.7578334417,3.5,Great value. Great staff. Great service.,Japanese
+6185,4Du6XaiZ76yvd5BTGsHaaQ,John Street Cafe,8338 N Lombard St,Portland,97203,45.5894709,-122.7528131,4.0,Good food for a reasonable price. The coffee nudge was delicious.,American (Traditional)
+6254,yQ3N4iZlLACpo7BMZ1Z1xg,Thanh Son Tofu,103 NE 82nd Ave,Portland,97220,45.5237998,-122.5792889,4.0,,Vietnamese
+6270,5K7mfIFJk9yL7alNYxHFoA,Amor Lounge,6219 SE Foster Rd,Portland,97206,45.49095,-122.599227,4.0,,Mediterranean
+6306,WjFKYw7CbEio0EdDHjU-cg,The Kache,6852 NE Sandy Blvd,Portland,97213,45.5468757,-122.5926233,3.5,,American (Traditional)
+6344,t56cSN1PVHfX0K3nKt2d3g,Boke Bowl Pop-Up,,Portland,97214,45.5113506,-122.6456739,3.5,,Japanese
+6348,LX6-l7SqWZO_gNwJ7nSa7w,White & Green Thai Noodles Bar,4604 SE Hawthorne Blvd,Portland,97215,45.5119214,-122.6149829,4.5,The calamari is so good!,Thai
+6358,aU1BriUVcCvXgTUYztx-jQ,Casa del Sol,14324 SE Division St,Portland,97236,45.5038354,-122.5154577,4.0,"I love the Breakfast Burrito and the Casa del Sol Burrito, AWESOME!!",Mexican
+6406,PH0eZVkk44am3XGYtQR_Ww,Thai Sky Kitchen,340 SW 5th Ave,Portland,97204,45.521012,-122.676165,4.0,,Thai
+6411,G630PyRfU1mmtDK2h0e19A,IHOP,4931 SE 82nd Ave,Portland,97266,45.48683,-122.57911,2.5,,American (New)
+6430,smQc3SYbYnuUSgq2C3xG5w,Uno Más Taquiza,1914 W Burnside St,Portland,97209,45.5228729,-122.6905734,3.5,"Food is terrible, drinks blow, service sucks.",Mexican
+6455,oEdO07D80kjFABZ8LanyoQ,Gino's Teriyaki,714 NE Killingsworth St,Portland,97211,45.562713623,-122.6585464478,4.0,This place closed down,Japanese
+6598,1wzuWmlb0Py1EAESHVcFtQ,Rollin' Fresh,2329 NE Glisan St,Portland,97232,45.5266831,-122.641837,4.5,We love their Spam Musubi!,American (New)
+6620,KwhXXwfejyMr7jOess61Gg,Wingstop,4124 SE 82nd Ave,Portland,97266,45.4926287847,-122.5780615765,3.5,Fuck this place.,American (New)
+6630,-921gYzvMFJmxJw9SMZ5mA,Sanchez Taquería,13050 SW Pacific Hwy,Tigard,97223,45.4254154,-122.7798745,4.0,Muy buena comida,Mexican
+6667,QjN7LFZ7zU4xmdl42nFuYg,Taqueria Los Puñales,3312 SE Belmont St,Portland,97214,45.5163199,-122.6306028,5.0,Amazing tacos and friendly fast service!  These tacos are the real deal,Mexican
+6698,91Dis9e6sPxlZyQvpVtqVw,Beach Shack,Portland International Airport,Portland,97218,45.587795843,-122.5993817641,3.5,,American (Traditional)
+6724,DsY6r2aWZ9f-rEn_AeEbYA,Thunderbird,5339 SE Foster Rd,Portland,97206,45.4951608,-122.6075737,4.5,"***  Check your tab if upgrading to tots!!! ***
+
+10/5/19 visit, PoS system charges $2.00 for tots, menu says add tots $1.00. Bartender couldn't fix it while I was there so he bought me a beer.",American (Traditional)
+6756,nAgWcMOCl35QO6XSZSR_QQ,La Isla Bonita,302 NE 122nd Ave,Portland,97230,45.5245804,-122.5373299,3.5,Absolutely delicious!!!,Mexican
+6761,0tZ9L9zFl8QHxLCGmb3Z_A,Cafe Yumm!,14601 SW Millikan Way,Beaverton,97003,45.495021,-122.827069,3.5,Cafe Yumm! is one of my fav lunch spots!,American (Traditional)
+6771,CJ0CH7SbzqDGU-eU7K-DEA,Thai Orchid Restaurant,18070 NW Evergreen Pkwy,Beaverton,97006,45.5365585663,-122.8638924152,3.0,,Thai
+6802,F744EgFmkAqDAku1EpyYVA,Po' Shines Cafe De La Soul,8139 N Denver Ave,Portland,97217,45.5822699,-122.6873082,3.5,Delicious chicken and waffles served all. day. long.,American (Traditional)
+6810,YNPhvsvexACL6zPcG3xk1Q,The Doghouse Pdx,5029 Se Division St,Portland,97215,45.505498,-122.610329,4.5,Our food is always ready so fast!,American (New)
+6836,83U-Xi_XyXdRHavh88tKwQ,Ichiban Japanese Restaurant,13599 NW Cornell Rd,Portland,97229,45.528579,-122.816285,4.0,,Japanese
+6851,z90h5I91-mFd6CO7uoIy1w,Bamboo Sushi,1409 NE Alberta St,Portland,97211,45.5592308,-122.6513252,4.0,"sweet shrimp from British Columbia, salmon from Alaska, geoduck from Washington, albacore from Oregon, and tuna from Hawaii",Japanese
+6981,ClKtrr9LUlmg0rKvMGEOZA,Radio Room,1101 NE Alberta St,Portland,97211,45.559299,-122.654318,3.5,"Good stuff, The bartender was great!",American (New)
+7094,PRlRTWlY3jEYPhuVBE5s0w,Buffet Palace,12570 SW Center St,Beaverton,97005,45.4933688,-122.8061569,2.5,I liked it,Chinese
+7134,K1jNnR8wWgHEWMRTGmKAaw,Tuk Tuk,3226 N Lombard St,Portland,97217,45.576946,-122.7000609,3.5,Excellent food. Their pumpkin curry is delicious! Try them!,Thai
+7182,ptY45zoDMA2pXEkgbaSWCA,The Lost & Found,5426 N Gay Ave,Portland,97217,45.5625044,-122.6897385,4.0,Beautiful little gem of a place. I love that it's so hidden.,Mexican
+7190,SCO7tq7IZYbWHs1rqoHwZg,Pepino's Mexican Grill,914 NW 23rd Ave,Portland,97210,45.5293542,-122.6983402,4.0,The Al Pastor tacos don't have pineapple in them. What in the actual f.....,Mexican
+7259,g6sjI5OEMmvqncij-FSGsQ,Cantina Xica,1668 NW 23rd Ave,Portland,97210,45.5345915,-122.6980431,3.5,,Mexican
+7277,h4SRhIs6gheGazN-U2HUkg,Tiger's Cafe,2045 SE Belmont St,Portland,97214,45.5165421,-122.6445908,3.0,,Mediterranean
+7282,9fcN6YIzQnXLJ_CvuWHdhA,Avid Cider Co,121 NW 9th Ave,Portland,97209,45.523981,-122.6804397,4.5,"Great place to watch a game!  Good wings, great pizza. Try the P-Town blend!",American (New)
+7284,_04PFbEbmfy7lKovpSF0xQ,Pho Corner,6120 NE Sandy Blvd,Portland,97213,45.5439001,-122.5995999,4.0,It's the closest one to our home with the best offerings for the price.,Vietnamese
+7350,Eu7CG7Xtsy5f5IqA7Aahjg,Chow,505 NW 14th Ave,Portland,97209,45.5266355,-122.6858464,2.5,,American (Traditional)
+7378,bkXaCV43GuvUdB2isZFi2g,Beulahland,118 NE 28th Ave,Portland,97232,45.5239233,-122.6370112,4.0,,American (Traditional)
+7379,LNQcbbmRwiTLjKzCXWHyHw,Little Arabia Grill,8145 SE 82nd Ave,Portland,97266,45.4636025,-122.5796078,4.0,I don't know what to say except its damn good. The guy behind the counter was fun.,Mediterranean
+7387,QeRqUDEMy9Jz21gP9qZMtw,Taquero Mucho,7339 NE MLK Jr Blvd,Portland,97211,45.5763193,-122.6617429,5.0,,Mexican
+7431,ZlLHKxS9olLLr1-B007OlA,Joy Teriyaki,"7500 SW Dartmouth St, Ste 110",Tigard,97223,45.4328681942,-122.7540288716,3.5,,Japanese
+7465,ofaCxO85G8Lqd-4a5Fn45A,Heron Lakes Golf Club,3500 N Victory Blvd,Portland,97217,45.604555,-122.705109,3.5,Nice layout.  Good price,American (Traditional)
+7475,OThSRLbbRDTAKcjK2WLYzw,Chez Jose Mexican Cafe,8502 SW Terwilliger Blvd,Portland,97219,45.4635378,-122.683784,3.5,Fantastic food and fantastic service!,Mexican
+7483,U2zhFVzEo0TzOF3mwI9-Iw,Iyara Thai Restaurant,1914 W Burnside St,Portland,97255,45.5229214,-122.6905192,4.5,,Thai
+7511,Mo1vbkerRM3pmK1Gn1dv4w,Taco Del Mar,15170 SW Bangy Rd,Lake Oswego,97035,45.416131,-122.7422676,4.0,,Mexican
+7525,lveytQ9p_eySPP34ZbOKdw,Thai Go!,"Pioneer Place, 700 SW 5th Ave",Portland,97204,45.516964,-122.6732897,4.0,,Thai
+7576,3IjJfMkVRR2wsuDVpVR2Ew,Wafu Restaurant,3113 SE Division St,Portland,97202,45.5048131,-122.6333997,3.5,,Japanese
+7578,LVWjGq7lAyNxa4ZWaRyv5g,The Triple Lindy,1000 NW 17th Ave,Portland,97209,45.5301239,-122.6882617,4.5,"Worst place in Portland I've EVER been. Staff is ridiculous, so are the clients.",American (Traditional)
+7695,HUFfgBr9jonw1RE5nr0V-Q,Taquería de Todo Poco,7476 SE 82nd Ave.,Portland,97266,45.4689229,-122.5787093,4.5,,Mexican
+7762,dPUp-icjBz6ARGXfQ78laQ,Hunan Pearl,15160 SW Bangy Rd,Lake Oswego,97035,45.4161503,-122.7421102,4.0,Always great food and great service. Never disappoints!,Chinese
+7946,suBaZ73XJVJoC7a4xGwSdg,Rice Junkies,620 SW 9th Ave,Portland,97205,45.5200018,-122.680823,3.0,,Chinese
+7959,4CdwElFdWytCtiWhezD_Zg,Cha Cha Cha Taqueria,4823 Meadows Rd,Lake Oswego,97035,45.4180855,-122.7257899,3.0,,Mexican
+8026,a2ncoCQVlstbalrj6s2g3g,Taqueria Lindo Michoacan,4035 SE Division St,Portland,97202,45.5051204662,-122.6205315368,4.5,,Mexican
+8079,ft_Z1dVABd3k6BDUQ9nFGA,Golden Crown Restaurant & Lounge of China,10655 SW Beaverton Hillsdale Hwy,Beaverton,97005,45.4866588,-122.7865377,2.5,,Chinese
+8091,s2Gam8OJaThBi9imm_LCng,Berkeley's Bar & Grill,6302 SW Meadows Rd,Lake Oswego,97035,45.4172516195,-122.741403915,4.0,"This place is a nice home town bar,the owner is usually onsite and mingles with the guests.",American (Traditional)
+8137,bWhiIJYLhvO9xf1zmyahMQ,Cha Cha Cha Taqueria,4727 NE Fremont St,Portland,97213,45.5485255,-122.6143919,3.0,,Mexican
+8181,tv6FF_lv1poAimjQcOQlWQ,Siete Suerte Mobile Taqueria,323 W Burnside St,Portland,97209,45.5231685,-122.6741109,4.5,,Mexican
+8189,_OX6gDpHBq6DI4U2fBUvQg,Sawasdee Thai Food,Q 19 NW 19th & Quimby,Portland,97209,45.5334926,-122.6906396,4.0,,Thai
+8253,fNkX4JGvBMmLSoAONwm3ew,Bangkok Palace,300 SW Taylor St,Portland,97204,45.5168376,-122.6765675,3.5,Great price! Delicious food! Friendly service!,Thai
+8321,G2Q3ukeP3AX_DBfZuKyl3w,Taqueria El Cazador,10151 SE Foster Rd,Portland,97266,45.4772787458,-122.5588869532,4.0,"Love everything about this place good service , delicious food. Really recommend it",Mexican
+8331,U-a0uH2NWSuH8BBgZUta4Q,Superbowl Teriyaki,12865 SW Canyon Rd,Beaverton,97005,45.4885976185,-122.8088412475,4.5,Great Teriyaki chicken and very affordable!,Japanese
+8339,vymQXDKnGFiBC2qaI3pJJw,Treasure Island,15930 SW Regatta Ln,Beaverton,97006,45.515957,-122.841465,2.0,,Chinese
+8389,Hzc6Nk_WZkVQvsdE4-cWvg,Taco Bell,13305 SW Pacific Highway,Tigard,97223,45.423309,-122.782618,2.0,It's not perfect but it's a given. I looooooveeeee Taco Bell.,Mexican
+8416,SzpKYMMfyZTIaOCZDfG9rA,Thai Flavor Restaurant,11461 SW Scholls Ferry Rd,Beaverton,97008,45.4466056,-122.7943069,4.0,,Chinese
+8485,_Gp7wp0kLa9645oi3y_Ygw,Pho Nguyen,4795 SW 77th Ave,Portland,97225,45.4856055,-122.7572231,4.0,This is the BEST Vietnamese food!!!,Vietnamese
+8598,aGdExYL57Kvl0So-EvYjjQ,NW Teriyaki House,10204 SW Park Way,Portland,97225,45.507683,-122.782404,4.0,"Yummy, inexpensive food served quickly!!",Japanese
+8658,JwRtYdcqqpYc9ZuJV9sMlQ,Kayo's Ramen Bar,"3808 N Williams Ave, Ste 124",Portland,97227,45.5501766,-122.6663747,4.0,Such good food. Very popular ramen,Japanese
+8687,yA-54p7kptMV7kztHDTFdg,Mazatlan Mexican Restaurant,15655 SW 116th Ave,Portland,97224,45.406524,-122.7970084,3.5,Great food and friendly staff!,Mexican
+8717,ScwkqJdlx57x9HZ6IwX0Mg,Garden Bar by Evergreens,25 NW 11th Ave,Portland,97209,45.523349,-122.682384,4.0,,American (New)
+8718,EgG2t6C22-mLU789Xw734w,Pho Van Beaverton,11651 SW Beaverton Hillsdale Hwy,Beaverton,97005,45.4876336,-122.7971589,3.5,My favorite pho spot in town!,Vietnamese
+8746,-JcBs4Sw88YtSrXRu2MkQg,Shiraz Restaurant,"10115 Sw Nimbus Ave, Unit 150",Tigard,97223,45.446582,-122.789878,4.0,,Mediterranean
+8756,niDgVxFdTyn-qaxj4GWnQg,Chefino's,2700 NE Alberta St,Portland,97211,45.5587667,-122.6374991,4.5,,Mexican
+8803,hSGVJPf-U-u13iWsiaB0hg,Hama Sushi,4232 NE Sandy Blvd,Portland,97213,45.5362093,-122.6192748,3.0,,Japanese
+8819,ivwHVLNEaTTwpOqaPPwbQw,La Mai Plate,7875 SE 13th AVE,Portland,97202,45.467498,-122.6532781,5.0,,Thai
+8861,P8Kp10s_s8iHH5ZPQrtDVg,Pepper Box Cafe,932 SE Morrison St,Portland,97214,45.5170111,-122.6559659,4.5,"The food was delicious. I had the migas, best breakfast I've had in a while.",Mexican
+8943,m_W9wVAFPU85ETYYhww8Rg,Portland Urban Bistro,1914 W Burnside St,Portland,97209,45.5229214,-122.6905192,3.0,,American (Traditional)
+9092,oM6wzNNo7Q0MqLBgh-hPgQ,Taco Salsa,14919 SE Stark St,Portland,97233,45.5196459,-122.5095362,4.5,Yuck,Mexican
+9124,VSd6W8v5SAitttBGmVrP8w,The Lumberyard,2700 NE 82nd Ave,Portland,97220,45.541577,-122.5776487,4.5,,American (New)
+9128,S9zEhTEukbJog-T6g4XnCQ,El Sombrero Mexican Cocina,10820 NE Sandy Blvd,Portland,97220,45.5584114,-122.5511601,4.0,Epic salsa,Mexican
+9153,ufdfOHSK95tPN3FKvqt9jw,Mi Burrito,819 N Lombard St,Portland,97217,45.5773405,-122.6753,4.5,Just ok,Mexican
+9195,RT1ZqWKVIDuk166b_aeH8w,Songbird,6839 SE Belmont St,Portland,97215,45.5170897,-122.5923393,3.5,,American (New)
+9274,OCOonWpj2tYjl1pc0EQ7uA,Triple Nickel Pub,3646 SE Belmont St,Portland,97214,45.5162617,-122.6260997,3.0,,American (New)
+9284,7sHSPMpHntVe1XiTRZT47w,La Panza Cafe,2425 SE 26th Ave,Portland,97214,45.5050204,-122.6398891,4.0,Mmmm chili reno,Mexican
+9318,W5SxaMHI_FxzAYF_p4C9qQ,Sweet Home Bar & Grill,2824 N Lombard St,Portland,97217,45.576884,-122.6960582,4.0,,American (Traditional)
+9323,H05t410STUGbST-ij3WrIQ,Loco Locos Burritos,1728 SW Broadway Ave,Portland,97201,45.5121327,-122.6832892,3.5,,Mexican
+9369,3hJL2vadS5mWwearPfAUSg,Farm Spirit,1403 SE Belmont St,Portland,97214,45.5167118,-122.6514464,4.5,This place is 100% vegan.,American (New)
+9371,JStFdtrKATKWGsxzzpDhBg,Taco Bell,4616 N Interstate Ave,Portland,97217,45.556164,-122.682116,2.5,,Mexican
+9380,Ym3c1Oy3egq4u7GhQsSp7A,E-san Thai Food Cart,4250 SW Rose Biggi Ave,Beaverton,97005,45.4892014,-122.808245,4.5,Love the food here!,Thai
+9573,uI_DtdwNsUrXYGjntYdP8A,El Grillo,703 SW Ankeny St,Portland,97205,45.5227091,-122.6780149,4.0,,Mexican
+9602,5nhC8o0M7th5n5MPQ1_zcA,Gastro Mania,SW 1st and columbia,Portland,97205,45.5130431178,-122.6763452688,4.5,,Mediterranean
+9654,F6AaT6EbPPJAIVpiw4wR9A,Muchas Gracias Gateway,"1307 NE 102nd Ave, Ste K",Portland,97220,45.5322840298,-122.5590957711,3.0,One of my favorite restaurants and the employees are really nice,Mexican
+9741,8xFRSwEsvvD69Vm2NW6lcw,Senor Taco,333 S State St,Lake Oswego,97034,45.4138207,-122.66367,3.5,"Good food, and great service. Here is an updated menu shot.",Mexican
+9748,3n5Nl5qTg4eXVesY-CrmXg,Jade Dragon Chinese Restaurant & Lounge,6327 SW Capitol Hwy,Portland,97239,45.4789474,-122.6946318,3.0,,Chinese
+9911,pQoY1sdD0NGMAm8hzAEYdA,New China Garden,14908 SE Powell Blvd,Portland,97236,45.4973482,-122.5094175,3.5,,Chinese
+9944,DizONyXOfK9bIhJ5XWb1Bg,Woo Jung Oak,8510 SW Hall Blvd,Beaverton,97008,45.4593287,-122.7892289,3.5,,Chinese
+9989,TMRu_SiJJfJco5GGla5ZFQ,Cha! Cha! Cha!,305 NW 21st Ave,Portland,97209,45.5250595,-122.6946436,3.0,,Mexican
+10084,O6rQLsHmnVexTX4_xkN-wg,D.F.,1139 NW 11th Ave,Portland,97209,45.5313824,-122.6825914,4.0,,Mexican
+10181,GVCjlqvWrd6CcqYpJv59sw,Manzana Rotisserie Grill,305 1st St,Lake Oswego,97034,45.4181089,-122.6637224,3.5,The worst quesadilla ever. Could not eat it. No atmosphere.,American (New)
+10196,X3s2-I_Ar25rIzZ2cOPDjw,John Barleycorns,14610 SW Sequoia Pkwy,Tigard,97223,45.414533407,-122.7466480961,3.5,"Happy hour 3-6pm daily, even on weekends. $1 off all beer. Small but decently selection of food menu.",American (Traditional)
+10216,3Unhqrfpnlh3Zlidk5xznw,Panda Cafe,1968 SW Broadway,Portland,97201,45.5096028,-122.6847124,3.0,,Chinese
+10262,iOoEWAB37lAj_YMAWkJaew,Tawan House Thai Bistro,3724 NE Broadway,Portland,97232,45.5349855,-122.6242916,4.0,,Thai
+10288,RlrYKNPtRX1OKe7hdiNZLQ,Mai Wah,18088 SE Mcloughlin Blvd,Portland,97267,45.3926136,-122.613151,3.0,,Chinese
+10308,Wz4MkGhBx0ZkhkD5H0lbJg,Philly's Best,7410 NE Mlk Jr Blvd,Portland,97211,45.5770646086,-122.6610660553,4.0,,American (New)
+10327,ViDT7_-VFrTdybp2WHiR5Q,Kati Portland,2932 SE Division St,Portland,97202,45.5045814514,-122.6349945068,4.5,Delicious! The flavors are great and you don't miss the meat!,Thai
+10423,0hnp-Xg51qq9JAv7I1b6xg,Little Big Burger,3704 SW Bond Ave,Portland,97239,45.496371,-122.670754,3.0,They said they're going to be out of ice cream sandwiches for a while; that delivery ceased on them.,American (Traditional)
+10480,B8YfBTVXvD7wZBgukBTung,La Merced,1510 SE Water Ave,Portland,97214,45.5118833,-122.6654255,4.0,,Mexican
+10495,5zXdkJfP8ww8SL4O_pSOxw,Rolling Gourmet Fusion,930 SW Washington St,Portland,97205,45.5211583,-122.6807241,4.5,,Japanese
+10504,mButHux7gkUlNlKuUMnM0A,J Mo's Sandwich Shack,5205 SE Foster Rd,Portland,97206,45.4958110597,-122.6086833452,4.5,,American (Traditional)
+10546,mZLubU2cIDX57Vm7ntjQJA,Chipotle Mexican Grill,910 SE 10th Ave,Portland,97214,45.5162634505,-122.6554763402,3.0,Very friendly staff!! Also felt very clean!,Mexican
+10559,7ZOIeYFVzbwZyQlHp0SdaQ,My Canh,1801 NE 39th Ave,Portland,97212,45.535835,-122.6233031,3.5,,Chinese
+10573,WvNcZHgeI2mwxsHFaVHKiQ,Bacon PDX,5221 NE Sandy Blvd,Portland,97213,45.5407762231,-122.6094223833,4.0,,American (New)
+10648,e02lyQz18tRtRGrwbS4PHA,Giant Gyros,18 SE 82nd Ave,Portland,97216,45.5225587848,-122.5786702707,4.5,The best I've ever had,Mediterranean
+10685,IyFESpWzfNdbtJiXO55wzw,Zeek's Cheese Grill,6238 SW Capitol Hwy,Portland,97239,45.4786805456,-122.6930541918,4.0,,American (New)
+10686,K2k3pcyxJg2iYLZAaugtAA,Taqueria Portland,820 SE 8th Ave,Portland,97214,45.5168299,-122.6576199,4.0,"This place is awesome very good and tasteful, I would recommend tburrito",Mexican
+10717,x5__2gbS-nlK9mCAsSF61Q,Nick's Famous Coney Island,3746 SE Hawthorne Blvd,Portland,97214,45.5118877,-122.6249211,3.5,,American (Traditional)
+10727,MzPR0O4yJcj9pMwdVOyZPA,Pho Vinh,7330 NE Fremont St,Portland,97213,45.5479576,-122.5872203,4.0,,Vietnamese
+10954,IPz11UobWuxRmkhBl-8IFg,Taqueria Mi Mole,18488 E Burnside St,Portland,97233,45.5207183,-122.4728386,4.5,,Mexican
+11027,uS8DBdXFgXRT-SaYgfVF2Q,Mae Ploy Thai Cuisine,2531 NE Alberta St,Portland,97211,45.559219,-122.639196,3.5,,Thai
+11052,HOmIWtUBhTAcctKdMShG3A,Cha Lua Bakery And Deli,5913 SE 82nd Ave,Portland,97266,45.4798859,-122.5792219,4.0,Look no further! This is the one.,Vietnamese
+11099,eBYzTajUiLnbjxctQfeecA,Gilhooligans Bar & Grill,10810 NE Sandy Blvd,Portland,97220,45.5584338954,-122.5514631421,3.0,,American (Traditional)
+11102,AZsQZRGeX1xSe_rArezXHg,Panda Express,10090 SE Washington St,Portland,97216,45.5181434,-122.5598198,2.5,,Chinese
+11169,tYLGB2Hw9U-csfH4KAN0LA,Thai Food Factory,SW 9th Ave & SW Washington St,Portland,97205,45.5210921,-122.6804345,3.5,,Thai
+11199,hBCVskXgYxotnXPXLV2RzA,Pho 99W,11640 SW Pacific Hwy,Tigard,97223,45.4380681,-122.754203,5.0,Nice mom and pop restaurant. Pretty solid food and price.,Vietnamese
+11247,7gNnLMMaol-rzYveud383w,Marathon Taverna,1735 W Burnside St,Portland,97209,45.5230756,-122.689067,3.5,"$3 for two eggs, two strip Bacon's or sausage links and toast or an over easy eggs on an open faced biscuit and two strips of bacon or sausage links 7am - 2pm or 10pm -2 am daily",American (Traditional)
+11281,E1sJVozqmmwcTinEuf-scQ,Boonrod Thai,SW 4th Ave And Sw Hall St,Portland,97201,45.509867,-122.6812479,3.5,,Thai
+11309,_pN6ATPBoeTt03ji14Yj2g,Joy Wok Healthy Chinese,7331 SW Barnes Rd,Portland,97225,45.5161585,-122.7527142,3.5,Great food that is healthy. Been here a long time. Chow mein is good.,Chinese
+11336,EmxTyqCuTTs-rHtF9GyoZg,Zien Hong,5314 NE Sandy Blvd,Portland,97213,45.5404821,-122.6085939,4.0,They have Crispy Tofu Pepper-Salted on the menu.,Chinese
+11462,6esjQIIFAMF1cvnFGEyiCw,Taco Time,9651 SW Washington Square Rd,Tigard,97223,45.4484202,-122.7829344,2.0,,Mexican
+11510,xA4q9OmjABydFK0JMWSgog,Next Level Burger,4121 SE Hawthorne Blvd,Portland,97214,45.5123678,-122.6196438,4.0,Ordered a milkshake that shit was clear coconut water. That's an icee. Duh,American (New)
+11544,-XVgcEK_Qb7-NfiW2E4TGQ,Quan Linh Asian Bistro,"8230 SE Harrison St, Ste 345",Portland,97216,45.5076968,-122.5782471,4.0,,Chinese
+11550,UUjtPWxc_G5mXkdgIMLdqA,Lady Thai,SW 3rd Ave & SW Washington St,Portland,97204,45.5195838,-122.6748057,3.0,,Thai
+11574,uxqcjqaIAJvLjtVDhnTYTg,P F Chang's China Bistro,1139 NW Couch St,Portland,97209,45.5238061,-122.6829732,3.0,,Chinese
+11594,7FpWEaUcb90uO74UeTY8HA,Chinese Garden,410 SE 162nd Ave,Portland,97233,45.5200142,-122.4960087,2.5,Great food great service,Chinese
+11599,GYcXkE8mXhGRJrKOqzbkEg,Chipotle Mexican Grill,240 SW Yamhill St,Portland,97204,45.5173936911,-122.6757697,3.0,"Order online, no wait to pick up!",Mexican
+11658,zqDaDcrPJbecQhT4z6okIg,Happy Panda Restaurant,1415 NW 185th Ave,Beaverton,97006,45.5302757078,-122.8690452003,3.0,Yuck,Chinese
+11671,M-bjCLEF_mK0cJsfn33A_w,Bamboo Sushi,380 First St,Lake Oswego,97034,45.4191038,-122.6646301,3.5,Get green machine x 5! So good! Nice atmosphere. Good cocktails too. Sustainably and responsibly fished.,Japanese
+11676,YaTnie91k1SzrjR9R21c_g,Los Mayas Loncheria,4212 NE Prescott St,Portland,97218,45.5552093,-122.61997,4.5,"Delicious, fast, nice folks.  Their chicken burrito was especially great.",Mexican
+11703,9pF5afrrEgBVfWmf2EMvsg,Laurelwood Brewing Co,7000 NE Airport Way,Portland,97218,45.5875201,-122.5894608,3.5,,American (Traditional)
+11796,IjDXcfC08t3ZUUruUXzM0w,Farmhouse Kitchen Thai Cuisine,121 NW 9th Ave,Portland,97209,45.5238254,-122.6802718,4.0,,Thai
+11877,-3hnEon-pSQRGPDr80s3Gw,El Burrito Azteca,1942 N Rosa Parks Way,Portland,97217,45.5697447,-122.6872464,4.0,Referred by a friend..  Tacos are AMAZING!!!,Mexican
+11938,-mWPfOHb6ad_GH2sxZRjPw,Sub King,2821 NW Saint Helens Rd,Portland,97210,45.5426529,-122.7209743,4.0,,American (New)
+11992,Vi6y9vfGONmbn5KkCpPGow,Curbside Kebabs,433-499 SW College St,Portland,97201,45.5093578025,-122.6820377351,3.5,,Mediterranean
+12009,qe82jZbbLVqz5WpG2nYlcA,Panda Express,1933 W Burnside St,Portland,97209,45.5232458,-122.6911315,2.5,,Chinese
+12037,kSIqBg0Ig10coKNRxtBWDA,Laughing Planet,1720 SW 4th Ave,Portland,97201,45.5115364,-122.6800491,4.0,:),Mexican
+12039,5teGd1_gcYqI_TGZ7uw2Lw,Yesenia's Market,6611 SE Powell Blvd,Portland,97206,45.4977944,-122.5952538,4.5,,Mexican
+12044,ZlTbMSDS9Q85T-05vfAlwQ,Breken Kitchen,1800 NW 16th Ave,Portland,97209,45.5359417,-122.6873174,4.0,Good Avocado Toast.,American (New)
+12058,AoHRA5m-cosdugNXVtqhBQ,CT Bistro,13595 NW Cornell Rd,Portland,97229,45.528559,-122.816229,4.0,Amazing Thai food!! They really care about the quality of their food,Vietnamese
+12116,WpdER4vBE9p4aBUnKGKj9A,72nd Avenue Pub,7610 SE 72nd,Portland,97206,45.468183,-122.589041,4.0,,American (Traditional)
+12206,crU16VRtOKYLkoVbjwGXRQ,WildFin American Grill - Beaverton,"2725 SW Cedar Hills Blvd, Ste 130",Beaverton,97005,45.5005773,-122.8091936,4.0,High price for mediocre food.. The service was about the same.,American (Traditional)
+12293,Fv_4mQXUKRfaNT0UpM_rGQ,Wong's Garden,10820 SE Oak St,Portland,97222,45.4441224,-122.6273775,3.0,Love this place! So good and huge portionS,Chinese
+12305,JnfM3uI9ebxbq8PS1Ki3SA,Laurelthirst Public House,2958 NE Glisan St,Portland,97232,45.5262542,-122.634665,4.0,,American (Traditional)
+12368,I1Y5CsBDPHJqJXqVHMdg-Q,Florida Room,435 N Killingsworth St,Portland,97217,45.5629082,-122.6709066,3.5,,American (Traditional)
+12402,OTYNnNKrWbeU5yoi7Hcnng,Bento's Teriyaki 3,"15915 NW Schendel Ave, Ste 101",Beaverton,97006,45.520423,-122.84086,3.0,Excellent food at a great price! I love this place!,Japanese
+12482,mQbS-ZhKVc0zyqXp9v0TWQ,Shenzhen,707 NE 82nd Ave,Portland,97220,45.5277404785,-122.5794143677,3.5,,Chinese
+12488,u19fK4NPFH-shXWY5VFoHg,Salt & Pepper,8419 SE Woodstock Blvd,Portland,97266,45.47958,-122.576206,4.0,,Mexican
+12491,f9GKB9hxrON58mO4kfXSyA,Country Inn & Suites By Carlson,7025 NE Alderwood Rd,Portland,97218,45.5743622,-122.5832122,3.5,,American (Traditional)
+12493,82E6Mzc7D98FmlaqCfq5Yw,Antojitos Mexicanos,11516 N E Sandy Blvd,Portland,97220,45.5577122751,-122.5440000932,4.5,Great food for a great price,Mexican
+12496,HDYG6vTQ2zywH0pv4CEBYA,4 dub grub,8145 SE 82nd Ave,Portland,97266,45.4635086746,-122.5794524699,4.5,,American (Traditional)
+12573,bu7HLKDP5B2P0JoMEqS-ow,Mexicali Express,12950 SW Canyon Rd,Beaverton,97005,45.488022,-122.8098984,4.0,Delicious chicken burrito! Very fast and friendly!,Mexican
+12655,p_RrgCVUdTOi7b-If3i8Cg,Thai Spoon,1334 SE Hawthorne Blvd,Portland,97214,45.5120513,-122.6520857,3.5,,Thai
+12657,mpty5wOn8JRFpLF_NQU4rA,Yen Ha,6820 NE Sandy Blvd,Portland,97213,45.546695,-122.592855,3.5,This restaurant has the  best calamari and wings in town. It's a much try,Vietnamese
+12726,JjKGbVvXy5sYGOTfta4MvA,Soluna Grill,4440 NE Fremont St,Portland,97213,45.5481169,-122.6170437,4.0,,American (New)
+12730,PZDiGajv10ROX0NGxMSyRA,The Knock Back,2315 NE Alberta St,Portland,97211,45.5592532,-122.6415703,4.5,I love this place... whatever.,American (New)
+12745,Lev5m6EnnN1LimuNV5y3eQ,Verdigris,1315 NE Fremont St,Portland,97212,45.5483639,-122.6524147,4.5,Fantastic meal with attentive servers. 5 stars all the way!,American (New)
+12809,CJXJCIplo9j-M46oPgNFzg,Acapulco's Southwest Gold,7800 SW Capitol Hwy,Portland,97219,45.4678568,-122.7130155,2.5,,Mexican
+12841,0FI69zi7idMfjvgWMZ38oA,Bumblekiss,3517 NE 46th Ave,Portland,97213,45.5485214,-122.6163373,4.0,,American (New)
+12844,5pdCkLqu7oeVYUN8YZaeQQ,Eagle Thai Restaurant,822 NE Broadway St,Portland,97232,45.5348612,-122.6570041,3.0,,Thai
+12859,FSsKpfnbxnGnMqg1tc69iQ,Nana,1625 NE Alberta St,Portland,97211,45.5593585,-122.6483421,4.5,The food is amazing & authentic af,Vietnamese
+12891,znuiSxCNF6MyJFVmYUqpJg,Superbite,527 SW 12th Ave,Portland,97205,45.5214712,-122.6840132,4.5,,American (New)
+12967,v9c6zLaiPD58-Z3rf6tHVA,Jackson's Lite-N-Tasty,515 SW 4th Ave,Portland,97204,45.5196411,-122.6761536,3.5,,American (Traditional)
+12972,rIe8OdmSr4fV2EN2XcuYUQ,Panda Kitchen,1968 SW Broadway,Portland,97201,45.5096054077,-122.6847076416,2.5,,Chinese
+13032,NEjbVs_50_iR-cRGrPMJkw,North Light,3746 N Mississippi Ave,Portland,97227,45.5501692843,-122.675399654,4.0,,American (New)
+13046,WHSA1dlIJrVZJ-y0UTlDng,Happy House,4234 N Interstate Ave,Portland,97217,45.5544656,-122.6815995,3.5,Ok food,Chinese
+13086,sekbE_TpoPkVWIHMu0uBiA,Saburo's,1667 SE Bybee Blvd,Portland,97202,45.4738414,-122.6482962,3.5,have withdrawn money twice and do not want to return! disgusting attitude,Japanese
+13119,0uiGvJtKIuB3qfEG6416RA,45th St Pub & Grill,4511 SW Beaverton-Hillsdale Hwy,Portland,97201,45.48599,-122.723462,3.5,Good. Not great but not bad either. Friendly bartender,American (New)
+13149,NxMMPmKRi4OSF8PoCw-vLQ,Kesone Thai Lao Bistro,2600 NE Sandy Blvd,Portland,97232,45.5282227,-122.6390847,3.0,,Thai
+13164,UE3Ggizal3luY5nItldZow,ChkChk,1305 NW 23rd Ave,Portland,97210,45.5321095616,-122.6988437278,4.0,,American (Traditional)
+13189,67xGDBlw8bgIZ88X15bNHQ,Su Casa Mexican Restaurant,3107 N Lombard Street,Portland,97217,45.5771217,-122.6982308,3.0,,Mexican
+13191,kYyP_0BC0KBJ-fKNSb4D3A,Marco's Cafe & Espresso Bar,7910 SW 35th Ave,Portland,97219,45.4673932,-122.7126842,3.5,Inconsistent quality of food.  Service is great and it's family friendly.,American (Traditional)
+13325,uvuBXlppUX_bZ_Rdsy5meQ,Hunan Restaurant,515 SW Broadway,Portland,97205,45.5205607,-122.679197,3.5,,Chinese
+13347,wVTbg_ZOjqYwMNTdfmAx4A,Masu East,310 SE 28th Avenue,Portland,97214,45.5205649,-122.6371765,4.5,,Japanese
+13348,L1V1i2XxeQe4QsbToHP1NA,Outtakes Quick Cuisine,900 Sw 5th Ave,Portland,97204,45.5169939,-122.6779383,4.5,,American (Traditional)
+13375,AETX-g0EU0_U0XCDXWgBNg,TE:bar,909 SW Park Ave,Portland,97205,45.5181505,-122.6818017,3.0,,Thai
+13401,HVfjXwVb4hF-ckhpAouB4g,Royal Panda,7200 SW Hazel Fern Rd,Portland,97224,45.3940546,-122.750061,3.5,,Chinese
+13409,TVpt0GrSqPG3d7k1ypZMXg,Aki Pan Asian Cuisine,1900 NW 27th Ave,Portland,97210,45.5360665,-122.7068206,3.0,,Chinese
+13410,XjQSuPfbrv5UQXsz1oq3mQ,Duke's Bar & Grill,14601 SE Division St,Portland,97236,45.50454,-122.512292,3.5,,American (New)
+13437,SnzQ92OOWTeTBtNWi0p9gQ,Tsunami Thai Cuisine,2731 N Killingsworth St,Portland,97217,45.5628814,-122.6953726,4.0,,Thai
+13462,ZulGc5FecZJMa-K6raI9Ug,Three Square Grill,6320 SW Capitol Hwy,Portland,97239,45.4782124,-122.6942039,4.0,,American (New)
+13584,A8cort3a1bVgXXw9pp9m1A,Greeley Avenue Bar & Grill,5421 N Greeley Ave,Portland,97217,45.5624765,-122.6959053,4.0,Great beer & bar food!,American (New)
+13595,4pTumHXIGCftcLFFOUz_0Q,Kappaya Japanese Restaurant,3384 SE Division St,Portland,97202,45.5047852,-122.6298702,3.5,,Japanese
+13618,-SGcksq-CkWB-GzpV4FZBw,Catalina's Mexican Restaurant,517 NE Killingsworth St,Portland,97211,45.563,-122.660057966,3.5,Not many lights on outside...can be easy to miss in the dark.,Mexican
+13660,vM8HnYvSScK2aSDfVqH6cQ,Mekong Thai Cuisine,10880 SE McLoughlin Blvd,Portland,97222,45.444027,-122.6419801,3.0,,Chinese
+13668,pje5W0FkFiEhyE2H_AcEFQ,Shawarma Express PDX,1825 N Williams Ave.,Portland,97227,45.5360828,-122.6669223,4.5,"Stop by and try it, their chicken is cooked with great seasoning. Loved it.",American (Traditional)
+13695,PVd4P1ylzAeYwYf7mLONww,Juan Colorado,10075 Sw Barbur Blvd,Portland,97219,45.4528196,-122.7240038,3.0,,Mexican
+13697,paLfnK14eROvd5gxYY2ziA,Mole,2671 NW Vaughn St,Portland,97210,45.5369556,-122.7061033,5.0,,Mexican
+13731,eSFa2XHBeIwYi3Oq-dSbzw,Koya Sushi,12570 SW 1st St,Beaverton,97005,45.4862211,-122.8058186,5.0,,Japanese
+13747,dCNw_TDoRIHkzeb30sNWgA,The Goose,2725 SE Ankeny St,Portland,97214,45.5222589,-122.6375716,4.5,"We miss you.  
+
+Our favorite restaurant in the neighborhood.",Mexican
+13770,VqV9crQXqFRqs9qmmP53mw,Thai Pod Restaurant,2015 NE Broadway St,Portland,97212,45.5351965,-122.6455164,3.5,,Thai
+13801,13fxyzYjSadC0mZC_KW2ig,Xico,3715 SE Division St,Portland,97202,45.5049376,-122.6252431,3.5,It's not bad it's a beautiful restaurant though,Mexican
+13808,TLXt6QaZ-xXr-LnrHVgdZQ,Eleni's Estiatorio,7712 SE 13th Ave,Portland,97202,45.4691029,-122.6527658,3.5,,Mediterranean
+13826,9i-jlmd8VYg0kam86Fqe0A,Thai Delicious Restaurant,12540 SW Main St,Tigard,97223,45.4295425,-122.7727398,4.0,Delicious food. Great desserts and nice selection of options.,Thai
+13839,kWv2j1SIT6dFqy-3pQFlKQ,Thai Cabin,"16165 SW Regatta Ln, Ste 300",Beaverton,97006,45.5177279,-122.8434907,3.5,,Thai
+13843,1AhWHWtBLB4UherVKWae7Q,Pot & Spicy,"8230 SE Harrison St, Ste  345",Portland,97216,45.507702,-122.5781642,4.5,Their fried chicken wings are so yummy that I am going to cry!!!!!!!,Chinese
+13866,n92sKmrj7UCI6Wqu5Z29nQ,Taco Bell,3420 SW Cedar Hills Blvd,Beaverton,97005,45.494844,-122.809568,2.5,,Mexican
+13873,k48fpf2IJ0wVBvgnHULWFA,Alvaro's Tacos,SW Hall Blvd,Beaverton,97008,45.4758644091,-122.8052763225,4.0,"$2 a taco and hours may be off, Wednesday evening and already open before 6:30pm",Mexican
+13928,jb4Im8IPjoyWa_b9ZHEv5Q,Hung Far Low,112 NW 4th Ave,Portland,97209,45.5242235,-122.6742796,3.0,"Name means ""Almond Blossom"" in Cantonese. Mandarin: Xing Hua Lou",Chinese
+13939,eqmMuOulMH42S2nYfGQNIg,Frack Burger,8981 SW Barbur Blvd,Portland,97219,45.4604114261,-122.7074130231,3.0,,American (Traditional)
+14005,MlMGxEciRpS3k_mqPbVZvQ,Bambuza Vietnam Kitchen,"9009 SW Hall Blvd, Ste 145",Tigard,97223,45.4537713828,-122.7778250563,3.5,Good Pho,Vietnamese
+14032,lTt7BSfPtaIQJTaEuhT5YQ,Pho Green Papaya,4111 SE Hawthorne Blvd,Portland,97214,45.5121688,-122.6201081,3.5,,Thai
+14050,zi1evFKHfBwWMkGqoJJNOQ,Pdx Grill,1923 SW 6th Ave,Portland,97201,45.5100548,-122.6837509,2.0,,American (Traditional)
+14078,S26gxay5At1uey7JuYEtfQ,Trattoria Gallo Nero,903 NW Everett St,Portland,97209,45.5252434,-122.6804193,4.0,Great food and very good prices. The people were nice too. Very good experience.,Mediterranean
+14095,v6abHDJORbFfJ6r_FRohdQ,Beaches Restaurant,"7000 NE Airport Way, Ste 2422",Portland,97218,45.5897069644,-122.5933617353,3.5,,American (New)
+14195,4_oI6svEi8v553fq3YaITg,E-San Thai Cuisine,2880 SE Division St,Portland,97202,45.504588,-122.6361879067,2.5,,Thai
+14231,8UZ9Q1xheLSsyU3vK1-dLg,Blue Olive,500 NW 21st Ave,Portland,97209,45.5264385045,-122.6943837851,4.0,,Mediterranean
+14235,IgHS0-z-Gfat5l5fnBr8jQ,Mee Dee Thai Cuisine,2731 N Killingsworth St,Portland,97217,45.5628855,-122.6952794,4.0,The food and service,Thai
+14266,ZDFrpj23_tQ_jV8NiAf-Cg,Estes,2930 NE Killingsworth St,Portland,97211,45.5625431,-122.6352113,5.0,,American (New)
+14281,2IQTHPZsK8IVd2j64vd7sQ,Pho Hoa Hong,3645 SW Hall Blvd,Beaverton,97005,45.4935211,-122.8074957,3.5,,Vietnamese
+14309,ABJkMgZgw6Jl2omgKeWm3g,Pintothai MLK,7339 NE Martin Luther King Jr Blvd,Portland,97211,45.5763193,-122.6617429,3.5,,Thai
+14356,rkT1xtABcp1njv0pUm3GQQ,Honey's Cafe,936 SW Jefferson St,Portland,97201,45.515834,-122.684164,4.0,,Japanese
+14375,iotBU9jCxGscNEO0GLkS_w,Berlu,605 SE Belmont St,Portland,97214,45.5166274,-122.6595873,5.0,"""Persimmon is an ancient Chinese delicacy often referred to as the ""fruit of the gods."" The golden fruit, which looks similar to a tomato, is in season from October through February. At Berlu, the chefs use it in their tasting menu to transition from savory into sweet. Pictured is the first dessert course: a frozen lime meringue flavored with fresh bay and persimmon.""",American (New)
+14377,twBoEhz4esrY7nQL9c-tyg,Thai Sushi,9440 N St Louis,Portland,97203,45.5962395681,-122.7505826402,4.0,,Thai
+14466,k4zizVWK7HzN-HT-3-402Q,Alderman's Portland Tavern,71 Sw 2nd Ave,Portland,97204,45.5222442,-122.6724426,3.5,,American (Traditional)
+14523,2rXSFRAqMCqQe2tzoVye9w,Hot Rice,4705 N Lagoon Ave,Portland,97217,45.556843,-122.7016571,4.0,Best Teriyaki in town!,Japanese
+14555,bAj9RV-fpeGydUj7g36VPw,Uno Mas,2329 NE Glisan St,Portland,97232,45.5265785209,-122.6416775004,4.0,Get the Barbacoa tacos!!  They are amazing.,Mexican
+14604,ymeHja3va8mMzOl6Wqs0FA,Zwin Sushi & Curry,902 N Killingsworth St,Portland,97217,45.5625284,-122.6759559,4.0,,Japanese
+14647,o61Oj3XWTRmjMeoKKQaVbA,Las Loncheritas,4298 SE Belmont St,Portland,97215,45.516564,-122.6177993,3.5,,Mexican
+14664,1HoKUVDFCpkCYMl-e6-E2w,TILT,"1355 NW Everett St, Ste 120",Portland,97209,45.5252738642,-122.68443,3.5,This place is gooooooood. Chicken sandwich.,American (Traditional)
+14726,nz2j5kOzm0wXIYkupTqQzw,Love Via Crepes,1019 NW 23rd Ave,Portland,97210,45.5301492,-122.6987405,4.5,,Japanese
+14800,NeRrmKfgM7g9wUC2cnNdIw,Oyatsupan Bakers,16025 SW Regatta Ln,Beaverton,97006,45.517211,-122.842116,4.5,Too expensive!,Japanese
+14834,WVhiItj6OUMrDz8GYM92KQ,Pho Eden,13227 SW Canyon Rd,Beaverton,97005,45.4889566302,-122.8130463092,4.5,,Vietnamese
+14875,1HFZDsOTzbG0900LCdoIcQ,Chameleon Restaurant & Bar,2000 NE 40th Ave,Portland,97212,45.5371324,-122.6216762,4.5,,American (New)
+14893,TcPwF_TVfHd53ShyGUmHxA,McMenamins Hillsdale Brewery & Public House,1505 SW Sunset Blvd.,Portland,97239,45.4792558,-122.6937084,3.5,,American (Traditional)
+14895,rLU1DUkXms9pzKGNOoYsDg,Purple Onion Grill,"8230 SE Harrison St, Ste 315",Portland,97216,45.5076968,-122.5782471,3.5,,American (Traditional)
+14978,dipIIgLitsyYDzgrbOp_6w,Boxer Ramen,2605 E Burnside St,Portland,97214,45.5229313369,-122.6391682805,3.5,i got so sick after eating here!!!!,Japanese
+15044,x4McROA7kn1ULCGegQtUSg,Mox Boarding House - Portland,1938 W Burnside St,Portland,97209,45.5228943,-122.6909013,4.5,,American (New)
+15081,Mya3oBtAZzrc8zU_cc87UQ,Biscuits Cafe,"16230 SW Pacific Hwy, Ste 160",Tigard,97224,45.4029775,-122.7970991,3.0,,American (Traditional)
+15130,xaOToxedsSQjxeqWN3Ipwg,Springwater Grill,6716 SE Milwaukie Ave,Portland,97202,45.4741428,-122.6485034,3.5,,American (Traditional)
+15131,F0bzwEt7ifyXS2wHv8QD2w,Los Tamales Locos,7337 SE Foster Rd,Portland,97206,45.4862614,-122.5873755,4.5,"Super yummy food, I order from here whenever I want tacos no exception. They have the BEST chicken tacos they are sooo yummy every time. You don't even need salsa because their shredded chicken is soaked in yummy seasoning. The service is great  1000% recommend I tell all my friends about this place",Mexican
+15159,9s-i3mcy6r-HWw3FK1a2BQ,Panda Express,7000 N Airport Way,Portland,97218,45.5892013,-122.5934769,3.0,,Chinese
+15162,s6dRRiBcqni1sZVnXICFaA,Southern Belles,8218 N Lombard,Portland,97203,45.5889052,-122.7513998,4.0,,Thai
+15185,UeU7V3x94wSLzPo5awOXoA,Tim's Thai Food,Portland Saturday Market Food Ct,Portland,97255,45.52454,-122.67178,3.5,,Thai
+15189,_K7kkOMwNvuRZw-lfQTb2A,Lupe's Escape,19405 SW Tualatin Valley Hwy,Beaverton,97006,45.4950185,-122.8767824,3.0,So sad it's gone. The nicest people ever. Decent solid food.  cheap prices.,Mexican
+15228,SZazvtfeMA1m_SYnGvPtIA,Khao Soy Thai Restaurant,2340 NW Westover Rd,Portland,97210,45.5245356,-122.6992038,4.0,This place is good! Big portion at a reasonable price!!,Thai
+15246,xE2qhiQp40jbBGoGWSZegw,San Thai Food,215 SE Morrison St,Portland,97214,45.5175561,-122.6633591,4.0,,Thai
+15261,cAgDWbcEufj8BIwt0IoO4A,Anna Bannanas St. Johns,8716 N Lombard St,Portland,97203,45.590662,-122.7558031,4.0,,American (Traditional)
+15263,tqa_x6TZFgq8HJcDMxsS1Q,Nomad PDX,575 NE 24th Ave,Portland,97232,45.5270503,-122.6415306,4.5,Be sure to use the bathroom while you're here - trust me.,American (Traditional)
+15266,LkRLrdw8vYTqJWKY0YMASg,Carl's Jr,1762 NE 181st Ave,Portland,97230,45.5353827,-122.476809,2.0,,Mexican
+15294,fSIk5An3l4ZpTKRJGBnHbQ,Salar's Mediterranean Grill,760 NW Dale Ave,Portland,97229,45.5251808167,-122.8121643066,3.0,,Mediterranean
+15300,IqZVg_EaaqKlBogQ22GQ_g,Perry's On Fremont,2401 NE Fremont St,Portland,97212,45.5485091,-122.6406883,4.0,,American (New)
+15313,G4MFdRfEt7IZHgQprxiNMg,Taste of Bangkok,1618 NE 6th Ave,Portland,97232,45.5346487258,-122.659229,4.0,Authentic and full of flavor.,Thai
+15372,qLIfJ8FYPqSfKZZKlx5O5Q,El Palenque,8324 SE 17th  Ave,Portland,97202,45.4626581,-122.6470246,3.5,,Mexican
+15388,bg72s85X0WqjuGWO_TBLqg,Hakatamon,10500 SW Beaverton-Hillsdale Hwy,Beaverton,97005,45.4856502,-122.7848457,3.5,,Japanese
+15391,WFPTw_ZfdO06DQwJMfIOGQ,Ramy's Lamb Shack,5221 NE Sandy Blvd,Portland,97213,45.5403830576,-122.6096105576,3.0,,Mediterranean
+15402,aC9KgIQorKds_ape8cgVig,Doc's Cheese Grill,"4708 NW Bethany Blvd, Ste E-7",Portland,97229,45.5542454494,-122.8358170018,4.0,,American (Traditional)
+15414,pLpMLnKPyv5bDXmP_43nKg,Benihana,9205 SW Cascade Ave,Beaverton,97008,45.4533771615,-122.7855251563,3.5,NEver disappoints!,Japanese
+15430,XPWCQZJPRu08MtjceGyOaA,Danwei Canting,803 SE Stark St,Portland,97214,45.5194446,-122.6572934,4.0,Vegan and gluten-free options are clearly marked on the menu.,Chinese
+15503,y3G50qTqKtUeBvwDuhv-7A,Aybla Grill,1660 SE 3rd Ave,Portland,97215,45.5110794,-122.6625165,4.0,,Mediterranean
+15522,Ju5gf5DUVhZ0nU953gtpug,Mazatlan Mexican Restaurant,13510 NW Cornell Rd,Portland,97229,45.5266849,-122.8158447,3.0,,Mexican
+15539,sp2Tn2zANChksCVw8OWWWg,House Burrito,1344 SW 3rd Ave,Portland,97201,45.5137447,-122.6777324,2.5,,Mexican
+15569,1mejOVl_arP-R-iyPC40ww,Chai Thai,14035 SE Stark St,Portland,97233,45.5192612,-122.5189003,4.5,Great food and friendly staff,Thai
+15572,6MrMXmbsuZLGJwfLxHk0rQ,Harvey's Comedy Club,436 NW 6th Ave,Portland,97209,45.526416,-122.676293,3.0,,American (New)
+15630,ZckHeG5NG6B0GXkm71THvA,Muchas Gracias,2145 NW Town Center Dr,Beaverton,97124,45.535074,-122.867064,3.0,Took 12 minutes for a burrito.,Mexican
+15718,dmBbW6K0hFscBrgb_lpGrg,High Noon,822 SW 2nd Ave,Portland,97204,45.5171457,-122.6749896,4.0,,American (New)
+15764,4XyXfIPnyXPVE2VY3cQ__w,Raven & Rose,1331 SW Broadway,Portland,97201,45.5148935,-122.682372,4.0,,American (New)
+15801,-79l25_zCDRHP9pk8q5xMg,Macau Szechwan Seafood Restaurant,"707 NE 82nd Ave, Ste D",Portland,97220,45.52774,-122.579414,4.0,,Chinese
+15803,I-j0Vr9vJAddRJz_Em3pJg,Pho Kim,2204 SE 82nd Ave,Portland,97216,45.5070160964,-122.5784020498,4.0,"Maybe you guys should consider not being on Postmates. I've tried to support you numerous times during this insane Coronavirus time and each time it says you've cancelled the order because you're too busy. I've tried ordering like 10 times from you guys, from delivery services. Each time, cancelled. Just take yourself off the vendor list. :)",Vietnamese
+15807,C8oJsTKfIh-Gk8yr--BhHQ,Madena of the Pearl,432 NW 11th Ave,Portland,97209,45.5263505,-122.6819505,3.0,,Mediterranean
+15814,RXpfpAPrQvndfnnJDOE52A,KCs Deli,3438 NE 82nd Ave,Portland,97220,45.5477074,-122.5782833,4.5,,American (Traditional)
+15839,Rh_DSB3az711xLt3QyDcYw,Al's Thai Food,330 North Marine Dr,Portland,97217,45.6017904,-122.6699828588,4.5,"Great food, friendly staff! Highly recommend!",Thai
+15863,BaDKurrCpty9nECxey_vLw,Zen Teriyaki,11923 SW Canyon Rd,Beaverton,97005,45.4895575533,-122.7995679528,4.0,,Japanese
+15879,d-CRpmrfYs96XMZ19tnWJw,Frutilandia,510 SW Yamhill St,Portland,97204,45.5182142,-122.6783088,4.0,,American (New)
+15901,CPlbpYBShdxbrfwAazYETA,Thai Bloom,3800 SW Cedar Hills Blvd,Beaverton,97005,45.4918809,-122.8094451,4.0,This is the best Thai restaurant on the west side.,Thai
+15988,OiCCTRe0zsKT7l3rvob7Mw,Bamboo Sushi,404 SW 12th Ave,Portland,97205,45.5223015,-122.6828186,4.0,"Disappointing, overrated, and just not good. Not worth it, don't recommend.",Japanese
+16187,yf2wk35w_4qkGRyl42FKRg,Baba's Mediterranean Grill,4708 NW Bethany Blvd,Portland,97229,45.554189,-122.8359767,3.5,,Mediterranean
+16201,4KUtjSBJYqFeeKG8iPbqYw,Sullivan's Gulch Bar & Grill,2512 NE Broadway St,Portland,97232,45.5349916,-122.6397597,3.5,,American (Traditional)
+16203,1xhWJBptefkbo4OZOiq-eQ,La Merced,7316 N Lombard,Portland,97203,45.587571,-122.7423886,3.5,,Mexican
+16320,O0Yz9aaY0NU85Y1OBsAiyw,Nancy's Eat & Browse,6920 SE 52nd Ave,Portland,97206,45.4728867,-122.6095119,2.0,,American (Traditional)
+16340,OTCru9pnSZQSSNwDRW-trg,The Agency Ultra Sport Lounge,1939 SW Morrison St.,Portland,97205,45.5223285,-122.6908179,2.0,,American (Traditional)
+16378,tXEC_kp_owg-9iN-iQvlNw,Yang‘s Noodle,1625 NE Alberta St,Portland,97211,45.5593645,-122.6483421,4.5,These handmade noodles are incredible. Speedy delivery too!,Chinese
+16432,AF_BcUWoPuIjSSUraqpJgA,White Elephant Asian Fusion,4233 N Mississippi Ave,Portland,97217,45.5543507,-122.6757371,4.5,Terrific food! Great customer service! Will definitely be back!,Chinese
+16468,e2EcMc1-IFhkhI3CluuZAQ,Waba Korean Grill,12055 SW 1st St,Beaverton,97005,45.4859767,-122.8005525,4.0,,Japanese
+16491,SdTxDZ4HjGjJz29odgbcaw,Pho TNT,120 SW Ankeny,Portland,97204,45.5222149,-122.6716192,4.0,,Vietnamese
+16568,LchQ3GdQ37GGk3QVqOYlOg,Sushi Chiyo,"2905 SW Cedar Hills Blvd, Ste 125",Beaverton,97005,45.4987566745,-122.8083870572,3.5,.,Japanese
+16622,1E8d12t8oFkx4M3PSxVC3g,Siam Society,2703 NE Alberta St,Portland,97211,45.5591839,-122.6377,3.0,,Thai
+16629,RJkQmSUwIePznW0OVwayZg,Don Flores,12425 SW Main St,Tigard,97223,45.4304504,-122.7718474,5.0,"Came here last week and the food was great. Came back today, and the truck is gone.",Mexican
+16653,zoH3uQn5-HP9Y4-zzlgkfQ,Malee's Thai Kitchen,15902 Boones Ferry Rd,Lake Oswego,97035,45.410219,-122.7189859,4.0,Hands down...amazing flavors. Great first time experience today.,Thai
+16658,7RVSHemCENX21z_MQYKE6A,La Palapa,1864 SE Hawthorne Blvd,Portland,97214,45.5120166,-122.646327,3.0,,Mexican
+16663,1zgFpb6ODyHIa7A0OIZPeA,Turkey Place,1234 SW 2nd Ave,Portland,97204,45.5140532087,-122.6765239611,4.5,"Very good. Great service, fresh and quick!",American (Traditional)
+16713,zlg8Z8COVU1Ju9QNqdZA3w,Butterfly Belly Asian Cuisine,323 NW Park Ave,Portland,97209,45.5255595,-122.6794236,4.0,,Japanese
+16744,UOwcwNqRDkxxbDTU450zoQ,Long Do Thai Food Cart,6550 N Interstate Ave,Portland,97217,45.5706784,-122.681777,5.0,"Fall 2020 - they are EXTREMELY BUSY, all day, everyday. Strongly suggest calling ahead, then going to pick up order... wait time is typically 20-25 minutes, and up to 45 mins during peak times (lunch/dinner)",Thai
+16840,LC1uDXUYnJrkAlYWLl8b9w,Cafe Gertrude,3023 NE Alberta St,Portland,97211,45.5591855,-122.634285,4.5,,American (Traditional)
+16975,2GYLcXyT87eOXnIzvih6OQ,Tonari,2838 SE Belmont St,Portland,97214,45.5162723,-122.6363288,4.5,,Japanese
+16991,oOj4AH1Ou0-OSMLYkmR7gA,42nd Ave Fish & Chips,5302 NE 42nd Ave,Portland,97218,45.5613746,-122.6201689,3.5,Yummmmm! Our favorite fish and chips place! Support this business!!,American (New)
+17043,EEYN68zCpzOtV_GLr-KlCg,Doug Fir Lounge,830 E Burnside St,Portland,97214,45.522641,-122.656824,3.5,We enjoyed the outdoor fire pit before it started to rain. They allow dogs outside. Be aware though of second hand smoke.,American (Traditional)
+17095,EEmBpCBIXmttt5yzWOen-Q,Bridgeport Ale House,3632 SE Hawthorne Blvd,Portland,97214,45.5119002,-122.6260902,3.5,,American (New)
+17136,PYcZIxRF1FE3fxoB8P5q7Q,Thai Orchid,16165 SW Regatta Ln,Beaverton,97006,45.5176935,-122.8434538,3.0,,Thai
+17194,ziQ9b-nxL0zU5QOqrLmR_w,New Thai Blues,2531 NE Alberta St,Portland,97211,45.5591597,-122.6391391,3.5,,Thai
+17196,NWFL1R2KIw_U6WqDS-JlAQ,Kenny & Zuke's Delicatessen,1038 SW Stark St,Portland,97205,45.5220669,-122.6818751,3.5,"If you are a fan of white fish salad, absolutely grab at least 1/4 LB of it.",American (Traditional)
+17238,jCakuCNbdZNgp9NFgyJnOg,Lotus Cardroom and Cafe,923 SW 3rd Ave,Portland,97204,45.5166058,-122.6764489,3.5,,American (Traditional)
+17246,8e0VrPhoXXRP-EMb-bMVCg,Maplewood Coffee & Tea,5206 SW Custer St,Portland,97219,45.4698887,-122.730817,4.5,Delicious,American (New)
+17289,-ulLBAnj20R-0jtXgxM6GQ,Bui Natural Tofu,520 NE 76th Ave,Portland,97213,45.526885300000004,-122.5843351,4.5,5 stars for their soy milk. 2 stars for the lack of order in their store.,Vietnamese
+17295,Uu-w6ZzS_HfrxWPyapLWxg,Pho Ton,6852 NE Sandy Blvd,Portland,97213,45.5468685,-122.5922838,4.0,,Vietnamese
+17307,unqZwDw2TTsZwpcPLCFH_g,Lokanta PDX,2601 SE Clinton St,Portland,97202,45.5036550015,-122.6394977421,4.5,"Delicious, fresh, authentic Turkish food",Mediterranean
+17350,y4AO6joHhOBAKP3g-FK4cA,Bangkok Restaurant,5325 E Burnside St,Portland,97215,45.5228654,-122.6084283,3.5,,Thai
+17386,1G262ZKELvxS-_wUsPDKZQ,Baoser,4809 SE Hawthorne Blvd,Portland,97215,45.5121909,-122.6128455,3.0,,Chinese
+17392,vHmYsJeK2nyg2FSotNTiIg,Porterhouse Restaurant & Lounge,14611 SE Mcloughlin Blvd,Portland,97267,45.4167465,-122.6322642,2.5,,American (New)
+17457,xw6E98ssOcU3fmMBhmCdJA,Pho Pasteur,7330 NE Fremont St,Portland,97213,45.5479576,-122.5872203,3.5,,Vietnamese
+17477,Vy-022_vpcd6KSXDyJvCIg,East Garden Restaurant,12424 SE Division St,Portland,97236,45.503711,-122.535117,3.0,,Chinese
+17494,kqZa61d6WUJ717Enm5t9ow,Si Senor,8220 SW Hall Blvd,Beaverton,97008,45.4608142,-122.7931769,4.0,Good food quality. Not enough rice. Shrimp ceviche the best,Mexican
+17537,4EXcN3GfOVbc24w1gPxBwA,Mr. Chen's Chinese Kitchen,17940 NE Glisan,Portland,97230,45.5187238631,-122.4655127685,3.5,Welcoming staff. Opened and operating during covid.,Chinese
+17562,LERde-DYs-_H8foNM8W_ZA,Thai Orchid Restaurant,2231 W Burnside St,Portland,97210,45.523471,-122.697035,3.5,,Thai
+17599,0qS800OOkRSoyBPw_t4YIA,Shilo Restaurant Portland Airport,11707 NE Airport Way,Portland,97220,45.5679374,-122.5419131,4.0,,American (New)
+17613,qg14R-Jl8ljKoS1jfbZZcA,Lazy susan,7937 SE Stark St,Portland,97215,45.5193105,-122.5816546,4.5,"Awesome  service and food. 
+Enjoy my dinner and I had a great time .",American (Traditional)
+17619,J63VW0RuEnmTRpjDjBjWbg,Thanh-Long Bakery & Restaurant,635 SW College St,Portland,97201,45.510108,-122.684256,3.0,,Vietnamese
+17693,Ds3oLZu_BueW_tyEt2OonA,Chang's Mongolian Grill,1600 NE 122nd Ave,Portland,97230,45.5342972,-122.5363112,3.0,Let's be honest your not really open till 9.,Chinese
+17718,TmOWTx8_4rzh_DJr4gztDw,Tom's First Avenue Bento,1236 SW 1st Ave,Portland,97255,45.5138248,-122.6755422,4.0,,American (New)
+17730,aSK_AHSC2oF3gSzThnBrWw,Vegas Chinese Restaurant,12424 SE Division St,Portland,97236,45.5036866,-122.5351383,2.5,,Chinese
+17791,f3g8Futgr-wKFOmenoN9tw,Ping,102 NW 4th Ave,Portland,97209,45.5241384,-122.674116,3.5,,Vietnamese
+17876,tyd2wMg_kfz-RvjhOISBiA,Romo's Latin Quarter,7915 SE Stark Street,Portland,97215,45.5192427,-122.5820294,4.0,,Mexican
+17880,crSSgDqSdNT5gujpTtIf2Q,Thai Thai,4604 SE Hawthorne Blvd,Portland,97215,45.511863,-122.6149438,2.5,,Thai
+17904,LxA8MGqmG21SwXw7P2Mhaw,Nam Vang Noodle House,5253 SE 82th Ave,Portland,97266,45.484311,-122.5801466,4.5,,Vietnamese
+17909,KPFa0V2d4ElrlOoHzhxpPA,Chopollos,SW 4th And Hall St,Portland,97201,45.509867,-122.6812479,4.5,Got my self a burger from there and it was dryer than my dms:/,Mexican
+17922,WFphibA4uwXSuWkkXGh4yw,Sapori Fine Flavors,"6455 SW Lakeview Blvd, Ste C",Lake Oswego,97035,45.392256,-122.743706,3.5,,American (New)
+17925,Vn9e5Q7TwP3PtkEx-FHExw,Five Guys,2606 Cedar Hills Blvd,Beaverton,97005,45.5008474163,-122.8055808352,3.5,"GO SOMEWHERE ELSE! 
+Try Killer Burger they are right across the street. Bacon is included as are fries. The burger alone is way better than Five Guys, but the service is heads and tails above Five Guys",American (New)
+17966,RSq9drLxUyqzzoVHd8FUJA,Taco Del Mar,438 SE M L King Blvd,Portland,97214,45.5196293,-122.6614339,2.5,,Mexican
+17978,f2HsPvy2rLMGOxswXSaN0g,Blue Sage Cafe,7 Monroe Pkwy,Lake Oswego,97034,45.432677,-122.703609,2.5,,American (Traditional)
+17999,j9WQcGnJ5g_QI1hdoZhHiA,Belmont's Inn,3357 SE Belmont St,Portland,97214,45.516582,-122.629714,3.5,,American (Traditional)
+18023,lbVWxfZod7g2-77A61ebcg,Dingo's Taco Bar,4612 SE Hawthorne Blvd,Portland,97215,45.5119222,-122.6148731,3.0,,Mexican
+18067,JqREIgE021cc3RPpIwBOag,Saima Thai & Sushi,4118 NE Sandy Blvd,Portland,97212,45.535415,-122.621054,4.0,Order canceled half hour after ordered. No explanation.,Thai
+18118,WXxtWVY8GkVgk3ALBcruXg,Cha Cha Cha Taqueria,1208 NW Glisan St,Portland,97209,45.5263414,-122.68352,3.5,Quick and very tasty Mexican food!,Mexican
+18121,A329GP9h25Dr1pcyqJ9e5w,Thai Derm Restaurant,3800 SW Cedar Hills Blvd,Beaverton,97005,45.4916822,-122.810088,3.5,,Thai
+18151,NjSUQGXH2IpRS_iJmPUIyQ,Le Hana,3500 SW River Pkwy,Portland,97239,45.497654,-122.6696253,3.0,,Japanese
+18173,MOYu1-55-nWnnOudETQq3g,Tony's Cucina,SW 9th And Alder,Portland,97205,45.5204116,-122.6808017,4.5,,American (New)
+18229,SU89RDasriEghDchbNoZsw,Jake's Grill,611 SW 10th Ave,Portland,97205,45.5206041,-122.6823483,3.5,So delicious! And great customer service!,American (New)
+18240,7biBUPa594ZjJg0WlD5gDQ,PDX Mac & Cheese Bar,1898 SW 10th Ave,Portland,97201,45.5120002,-122.6864311,4.0,Super delicious and a lot of food for your money!,American (New)
+18246,Rs064MuP6vA2EPRyLHeCSA,Che' Cafe,7316 N Lombard St,Portland,97203,45.587732,-122.742584,4.5,,American (New)
+18250,R30Gf658ZI5P7ZqfD5MjBA,The Burrito Box,SW 3rd Ave & SW Washington St,Portland,97204,45.5195931,-122.6747973,4.0,,Mexican
+18271,GbP9HkEitRnxoFTRaXiIYQ,Tabla Pasta e Vino,200 NE 28th Ave,Portland,97232,45.5244618,-122.6370351,4.0,,Mediterranean
+18273,KRBacesx8MwMS0zpY-X6Rg,La Jarocha,210 SW 4th Ave,Portland,97204,45.521629,-122.6745784,4.5,Great food!,Mexican
+18291,W2he3VHsYWgYAyDDE1pGww,Macadam's Bar and Grill,5833 SW Macadam Ave,Portland,97239,45.481281,-122.67363,3.5,,American (Traditional)
+18305,qHJR9ZS-Ahj76d0n8H5T_g,Ivy's Pho & Grill,15630 Boones Ferry Rd,Lake Oswego,97035,45.4126295,-122.7164785,4.0,"Best Pho in Lake Oswego, I think.",Vietnamese
+18342,WOwbHRuMOFZPk-cUS0pUwQ,Tacos Chavez,5222 SE Foster Rd,Portland,97206,45.495104,-122.6083634,3.5,,Mexican
+18345,Zt0PvIx2yQiP42rcQDcSOA,El Nopalito,935 SE Cesar E Chavez Blvd,Portland,97214,45.5159046908,-122.6233748541,4.5,The guy was rude very rude. No no and no no no no. Garbage no creas tanto güey,Mexican
+18387,oS9IjpMGGQ8Hh5FCUO_pdw,Cafe Voila,3271 NW 29th Ave,Portland,97210,45.5457272,-122.7114586,3.5,Nope.,American (New)
+18433,fXJpgVtl3ygwEUSH40qw_g,Kung POW!,500 NW 21st Ave,Portland,97209,45.5264929,-122.6942686,3.5,Vegan and gluten-free options are clearly marked on the menu.,Chinese
+18440,tMh7fr3h-KInKoeXdrXI9Q,Portland Teriyaki,12427 NE Glisan St,Portland,97230,45.5269463,-122.5352802,4.0,"This was great teriyaki 
+I ordered thru Uber eats and it was really great",Japanese
+18463,4FNrBgyXwc0M9JCotw0tvw,Eat Street Food Of World,3486 SW Cedar Hills Blvd,Beaverton,97005,45.4946215568,-122.8089232393,4.0,,Chinese
+18509,wWMIeyHVCVOOx3NDwpoynQ,Greek Cusina,404 SW Washington St,Portland,97204,45.5199473,-122.6761915,2.5,,Mediterranean
+18609,IvSxLP2cTL9vpMqdsfrORQ,Joe's Burgers,540 SW College St,Portland,97201,45.5094808285,-122.6831853471,3.5,Happy hour burger included the fries were yummy and filling. I loved it.,American (Traditional)
+18672,63PrCfBDcRpBf4MT-6_gQQ,Hat Yai,1605 NE Killingsworth St,Portland,97211,45.562862,-122.648838,4.5,We had the hat yai for 2. It was delicious. Their whole set up for covid is great!,Thai
+18692,PLnwIDlMpDDOCVto53YSlg,The Basil Bar,3135 NE Broadway St,Portland,97232,45.5353057,-122.6334496,4.0,,Thai
+18721,G8WGCz7BLKcYNDqyy245kw,Black Seed Burger Cult,3746 N Mississippi Ave,Portland,97227,45.550189,-122.675383,4.5,The sherif boomer is SO yummy! I picked the right burger to start eating meat again,American (Traditional)
+18731,DwcvHr4TmV-XANh9xp6V7w,Kings Omelets Restaurant,10711 NE Halsey St,Portland,97220,45.5337169,-122.5527792,3.5,"Great food, waitress there was very nice!",American (Traditional)
+18734,kiF_8eWLk10KUPSFB001XA,Next Level Burger,11 S State St,Lake Oswego,97034,45.4159906953,-122.6621839572,4.0,Always dope,American (New)
+18827,JeFJRHjqmfsjcVSOTMQtzw,Boca Grande,2707 NE Sandy Blvd,Portland,97232,45.5290023,-122.6380772,5.0,,American (Traditional)
+18846,ct2eZZCFntys-d7DJkDidA,Star Sushi,2800 SW Cedar Hills Blvd,Beaverton,97005,45.4995777,-122.8057341,2.0,,Japanese
+18856,gx3GrhYlFR5-fseUoPa2eQ,Corazón,1205 SW Washington St,Portland,97205,45.5221055518,-122.6837218316,3.0,,Mexican
+18865,dvFVIaBIfXlUgMjVEj7mvw,University Grill,6300 N Lombard St,Portland,97203,45.585189,-122.7316456,2.5,,American (New)
+18866,mwUvS1KuiYEvjbpT7rTetA,CHAR' Latin Grill,3336 SE Belmont St,Portland,97214,45.5162222,-122.6301057,4.0,Super yummy!,Mexican
+18894,S_0OBM0DjZrVqe3bvrHAZQ,Sandoval's Mexican Grill,7000 NE Airport Way,Portland,97218,45.5895218872,-122.5980475115,3.0,,Mexican
+18909,JFb-vav4GrFFLn0GUJGMOw,Beast,5425 NE 30th Ave,Portland,97211,45.5624022,-122.6350956,4.0,"Painfully slow service. Great food, but it doesn't need to take 2.5 hours.",American (New)
+18968,ivYKnL4zRzklyPq3Hl6vhw,Holman's Restaurant,15 SE 28th Ave,Portland,97214,45.5225794,-122.637487,3.5,Park in lot between Holman's and the Blue Goose or on the street. Do NOT park in any private lot that posts signs that say they will tow your car. They will. They did. Almost $400 for my friend to get car back and hours of hassle.,American (Traditional)
+18986,9hz5Il6RRyGBW7FcwdZtaQ,The Boiling Bowl,103 NW 21st St,Portland,97209,45.5238355,-122.6945109,4.0,Awesome Pho!,Vietnamese
+19018,qj4UA-sQNrAvFP8zTS1qww,Pho Ngon,"2850 SE 82nd Ave, Ste 2",Portland,97266,45.5017324,-122.5774351,3.0,,Vietnamese
+19021,Y0wkdP_XFyW6XTjoKodfDw,Yummy  Seafood Restaurant,2745 SE 82nd Ave,Portland,97266,45.5023667,-122.579078,3.0,,Chinese
+19107,jKtRxHnd068_ZzVC9aOayA,Taco Time,5009 SE Powell Blvd,Portland,97206,45.4978001,-122.6110754,2.5,,Mexican
+19113,FZgiACZGMIweB8aNn49HZg,Pok Pok Wing,7105 NE Airport Way,Portland,97230,45.5887751,-122.5907985,4.0,,Thai
+19160,qZ_6ug_LNpZ3wvBFm9xRIA,Tuk Tuk,4239 NE Fremont St,Portland,97213,45.5484494,-122.6195765,3.5,,Thai
+19186,o4-dQxmS8qxiYlLy8QPIew,Tai Sho Ken Ramen,3486 SW Cedar Hills Blvd,Beaverton,97005,45.4946254,-122.8098553,3.0,,Japanese
+19191,RzPNvu3s_jY8HI004bp2VQ,Mucho Amigo Taqueria,8525 NE Fremont St,Portland,97220,45.548406,-122.575896,4.0,,Mexican
+19238,GGv9sw09ZULDher5Zh2wxw,El jalisco 2,1040 NW Murray Rd,Portland,97229,45.5270209,-122.8132054,5.0,Pastor tacos are insaaaaaaaannnnneeee,Mexican
+19245,Lyt4Xk5mMrRwSibxA01s6A,Super Gyro,1533 NE Alberta St,Portland,97211,45.5592396,-122.6489322,3.0,,Mediterranean
+19288,xxpKvaWBdsn0dxoP_QH0aw,El Sol De Mexico 2,15963 SW 72nd Ave,Portland,97224,45.4053121,-122.7491437,4.0,always gas,Mexican
+19412,6JR1WSASN2Ou5eLsA12FGA,Mextiza,2103 N Killingsworth St,Portland,97217,45.5627229,-122.6887519,3.5,,Mexican
+19421,EXNpeqTQUjSap5UT43o4vA,Small Pharoah's,4233 N Mississippi Ave,Portland,97217,45.5543731,-122.67580770000001,3.5,,Mediterranean
+19502,zkGmrEHkgmODkAOvLf6FXw,Pita Pit,18033 NW Evergreen Pkwy,Beaverton,97006,45.536265,-122.8616695,3.0,Shut down because of Covid-19,Mediterranean
+19519,1jEaGRvGhdQ2sSdo5Ngg2A,Andale Andale PDX,10114 SE Division St,Portland,97266,45.5038666,-122.559273,4.5,,Mexican
+19546,6H8fHF3rQrGGkNubziSNKg,Aviary,1733 NE Alberta St,Portland,97211,45.5593661,-122.6471939,4.0,Foie Gras hum bao!,American (New)
+19563,miBTLGUkQfbwj5rwxGAtrA,Columbia Grill & Bar,8235 NE Airport Way,Portland,97218,45.582913,-122.575733,3.5,,American (Traditional)
+19654,yCbNPePPkxu-fOqDdG8fAw,Umi Sushi,914 NE Broadway,Portland,97232,45.5348851,-122.6561648,3.5,,Japanese
+19657,YlOmLwEpA9Cr9HxPoT5Qug,Chalino,25 North Fremont St,Portland,97227,45.5482716,-122.667112,4.0,,Mexican
+19722,-TunFTumtPviQOyUDsoY-Q,Tres Reyes,620 SE 181st Ave,Portland,97233,45.5182436,-122.4764624,4.5,,Mexican
+19747,iTDV8qSUaxpQa6PhfrwBoA,Paadee,6 SE 28th Ave,Portland,97214,45.522746,-122.637124,4.0,It was delicious. I got the crispy duck. My server Tim was awesome.,American (New)
+19764,KKse6jcHdgEcjyRVfWaT4A,Asabache Mexican Restaurant,13815 SW Pacific Hwy,Portland,97223,45.4201441,-122.7866152,3.5,,Mexican
+19824,xkbooDPyfsfLI1Gm5n-cNw,Thai Seasons,5824 NE Sandy Blvd,Portland,97213,45.54272,-122.6030092,4.5,Great Thai food and service ...will be coming back for more!,Thai
+19846,QE2Rukl79KSwejyBv2ZshQ,Las Palomas Taqueria,13036 SE Stark St,Portland,97233,45.5186333,-122.5292287,4.5,very good chicken kids quesadilla 10/10,Mexican
+19898,kX8ztSwBc7iyf2PqQ-E0mQ,Los Andes Restaurant,7100 SW Hampton St,Tigard,97223,45.4273467,-122.750714,4.5,,American (New)
+19959,_WbZb29KIzsUZ0bzU19JoA,El Tapatio Restaurant,15192 SE McLoughlin Blvd,Portland,97267,45.413319,-122.628874,3.5,,Mexican
+19967,7NnvuR0CFVfFaLo-Kc1H6A,Pho Oregon,6236 NE Sandy Blvd,Portland,97213,45.544373,-122.5985723,3.5,,Vietnamese
+20010,60Wlbf6jdEGzRsDKv5xDKQ,Red Curry,10053 SW Nimbus Ave,Beaverton,97008,45.4471886,-122.791191,4.0,Average food. Not the nicest service.,Thai
+20013,fNCrWwMj1AEq5UYHPpCBxg,Shoten Japanese Dining,"16165 SW Regatta Ln, Ste 500",Beaverton,97006,45.517662562699996,-122.8434056577,4.0,Salmon was fresh and the amount was proper.,Japanese
+20085,6H846FiRBAjl-EapXkx3Sw,Casey's,412 SW 4th Ave,Portland,97204,45.5202,-122.6754058,3.5,,American (Traditional)
+20113,FGi6XF5FVb4dhVMk74fmOg,Kimura Toast Bar,3808 N Williams Ave,Portland,97227,45.550313,-122.666388,4.5,,Japanese
+20169,jPzZkfLB06MRbXGTQTjPhQ,Bergerac,5520 SE Woodstock Blvd,Portland,97206,45.4789671,-122.6063464,4.5,Outstanding,Mediterranean
+20224,pp0kpgkPFr8JlHk_6UkyCg,Gyro House Mediterranean Grill,8140 SE Cora St,Portland,97206,45.4911104,-122.5790931,4.0,Good portions for a fair price.,Mediterranean
+20253,Py5CqwH3oIZ1XOlOWheqMA,Mio Sushi,2271 NW Johnson St,Portland,97210,45.5285177,-122.6981047,4.0,Delicious! You get so much food with the lunch combos!,Japanese
+20262,lnZdisH-yJsc0OptfkLsoA,Please Louise,1505 NW 21st Ave,Portland,97210,45.533609,-122.695004,4.5,"Don't do delivery. They use a third party partner (Seamless, Grub Hub, etc.) and the communication seems to be poor. My order came almost an hour late and cold to which the driver asked if I have an oven to heat it up. When I called PL to discuss my concerns, I got a mouthful from Liz as to how they had the pizza hot and ready to go, but the delivery service was late. Well, if they knew it was going to be late, couldn't they have given me a call / text / email to give me a heads-up?",American (New)
+20326,SVp3I8ChA1_gL6o2I8BqAw,Urban Green,927 NW 14th Ave,Portland,97209,45.5298341,-122.6855591,4.0,,Mediterranean
+20329,Mbps8VqTbeElI7LIwKOxQg,Hiroshi,926 NW 10th Ave,Portland,97209,45.5297657,-122.6812386,4.0,,Japanese
+20335,TNxDPsX5PQmYIfw-1ChJiA,Our Daily Bread,8680 N Ivanhoe St,Portland,97203,45.5895186,-122.7561535,3.0,,American (Traditional)
+20362,AZBL4ZwWyUjqmC1wAjWSNA,Lucky Bite 小幸運,1967 SW 4th Ave,Portland,97201,45.5089768169,-122.6814548397,4.0,,Chinese
+20396,zAckiVRDbQCq9qRRKqY2jA,Los Gorditos II,SE 8th Ave and SE Ankeny St,Portland,97214,45.5222071,-122.6576772,4.5,,Mexican
+20428,CLYNQaqhxfQUzSPvsTrrsQ,Rose's Restaurant and Bakery,7000 NE Airport Way,Portland,97218,45.590836584,-122.5942426516,3.0,,American (Traditional)
+20476,diEVZXRsK8QgtO9Ad2cnBw,Chaopraya,8202 SE Flavel St,Portland,97266,45.468509,-122.57854,3.0,,Thai
+20483,RgtHHCO5734yNDM0N9h22Q,La Sirenita 2,8029 SE 17th Ave,Portland,97202,45.4652644,-122.647206,3.5,,Mexican
+20514,wJIORd1RbfPgs4qGWG5oFw,Eastmoreland Golf Course Bar and Grill,2425 SE Bybee Blvd,Portland,97202,45.4751215,-122.639285,3.0,,American (Traditional)
+20540,k0oNK94bEEbJP_SkQB0n3Q,The Honey Pot Bakery,4220 N Mississippi Ave,Portland,97217,45.5540687,-122.6754955,4.5,,American (Traditional)
+20541,glUBeKD5ZfkVJEfWD4qztg,Rua,820 NE 27th Ave,Portland,97232,45.5288303,-122.6383292,4.0,,Vietnamese
+20624,G55xZcRgCw-V5hZ6bJVDFA,Teppanyaki Hut - Cartlandia,8145 SE 82nd Ave,Portland,97266,45.4636499998,-122.5795899332,4.0,Had it for the 1st time a couple days ago. Delicious and reasonably priced.,Japanese
+20639,B6HEnXF_SJCswAEV0oY0jQ,Popeyes Louisiana Kitchen,3120 NE Mlk Blvd,Portland,97212,45.5457704,-122.661325,3.5,This is the ONLY Popeyes location that matters in Portland. Been going here for decades (even when living in Parkrose) and I've rarely had issues and the chicken is consistently delicious.,American (Traditional)
+20664,OAks6mBIfKJCYbTGoP6egg,China Wok,"6033 NE Win Sivers Dr, Ste D",Portland,97220,45.566803,-122.5384469,3.0,A simple spot tucked away not far from pdx.. shares the lot with a quick stop convenience store ..an herbary as well as a sports bar.. give it a shot see what you think.. portions are extremely small for the price.. they mix good ingredients with sub par ingredients...throws the palate off.. a little disappointing!,Chinese
+20670,wMaPZ00lWww8unQ0zH9RtQ,Thai Pasta Cart,SW 4th Ave & College St,Portland,97201,45.5095977758,-122.6816071306,4.0,,Thai
+20672,tC7IMAHFMYY-JmKs2E2dYw,RingSide Fish House,838 SW Park Ave,Portland,97205,45.5186119,-122.6810259,4.0,,American (Traditional)
+20677,QjgPNwyrRGvz_YrAX92eiQ,Tacos el Guero,,Portland,97255,45.5559558,-122.6002587698,4.0,Best taco in Portland,Mexican
+20698,zugu5Y9MeSAZ_1k1RfXMwQ,Ichi Teriyaki 23,16255 SE Division St,Portland,97236,45.504891,-122.495315,3.5,Good food. Good price.,Chinese
+20702,lqf0w_FUDAhxn3gCsJYwlQ,Victorico’s Mexican Food,6933 N Lombard St,Portland,97203,45.5873019,-122.7391003,3.5,Great burritos!,Mexican
+20731,mh8K5uLuMb9tHxZwdk0qdA,Pepper Tree Thai Cuisine,6555 SW Beaverton Hillsdale Hwy,Portland,97225,45.487632,-122.744308,3.5,,Thai
+20749,0g4Z4RYwXLUiFkjdqkpq0w,Thai Food Cafe,833 N Killingsworth Ave,Portland,97217,45.5627734051,-122.6757185555,4.0,,Thai
+20751,ZKDiesLsLf2e5tyQkrjtTA,Bangkok Corner,7113 SW MacAdam Ave,Portland,97219,45.4726131,-122.6715281,3.5,,Thai
+20760,U-cbcBJR-j7Z0m_DT8zEGw,El Tapatio Restaurant,2627 SE 82nd Ave,Portland,97266,45.503847,-122.579053,3.5,There food is so authentic and delicious. Love their mole Enchiladas,Mexican
+20916,qpX_XmCHE4gn3rAovJxkPg,Siam Thai,18395 NW West Union Rd,Portland,97229,45.5580464,-122.8658816,4.0,Excellent food and menu. Always enjoyed by all.,Thai
+21011,BjkeS6ehvFW_Lech_sYDng,Francisco Taqueria,SW 3rd Ave,Portland,97204,45.5176974,-122.67582,4.0,,Mexican
+21155,qda4Toxsgn7kf2t9Dfmqtw,Black Cat Cantina,18901 E Burnside,Portland,97233,45.520295,-122.468844,4.0,,Mexican
+21214,cYJ7kq234bJ9WeFNFTpWSQ,Tom Yum Thai Cusine,"4309 SE Woodstock Blvd, Ste 140",Portland,97206,45.4794515,-122.6182034,4.0,Delicious and a great price. When allowed to dine inside again the decor is great,Thai
+21222,BMHRmB0LGzKEAmry6UmVOA,Farmhouse Kitchen Thai Cuisine,3354 SE Hawthorne Blvd,Portland,97214,45.5118627,-122.62983453,4.5,Always great!,Thai
+21315,NpvgdYnRr469064wYLyCbw,Little Taco & Tequila,215 NW 3rd Ave,Portland,97209,45.5248757,-122.6737047,4.0,Good tacos and lovely service! I haven't tried much else but I am sure it's good!,Mexican
+21329,P8plsFiw1_Cfq4B4u_n0mg,Wai Kong Asian Bistro,620 SE 122nd Ave,Portland,97233,45.517811,-122.537238,4.0,,Chinese
+21397,ndYt6SjKra2kVJyosfASAg,Koji Osakaya,10100 SW Barbur Blvd,Portland,97253,45.452186,-122.723421,3.5,,Japanese
+21513,8zZBUj0imBvDsidZ5Ob8Pg,Boke Bowl - West,1200 NW 18th Ave,Portland,97209,45.531514,-122.689331,3.0,"......
+.
+.
+.
+.
+.
+.good food",Japanese
+21524,x2-ilLa-LBl0UAugzvfVvA,Scratch,149 A Ave,Lake Oswego,97034,45.419677,-122.6651286,4.5,,American (New)
+21536,cLy0o3hkg9wwBqs7516cBw,Sunisa Thai,6852 NE Sandy Blvd,Portland,97213,45.5468038699,-122.5924068689,4.0,,Thai
+21637,LliSVNk9SxfN47-QDNitnA,Biscuits Cafe,5137 Ne Sandy Blvd,Portland,97213,45.5402696,-122.6101584,4.0,,American (Traditional)
+21749,kEuZOVE3QO-O3mOFZwzkpw,Le Vieux,1937 NW 23rd Pl,Portland,97210,45.5367057426,-122.7000200047,4.5,,American (New)
+21803,-99rAyLj7X3iRbwyPvT1CA,Mashita Teriyaki,1612 NE 6th Ave,Portland,97232,45.5345722,-122.6592636,3.5,Check the board behind the counter for daily specials.,Japanese
+21828,iceEnRLQCQMJwC_lcfoEsg,HomeTown Buffet,13500 SW Pacific Hwy,Tigard,97223,45.4224557,-122.7836362,2.5,,American (New)
+21959,1JxwixXs3y4A-UwIP8i-AQ,San Felipe Taqueria,6221 SE Milwaukie Ave,Portland,97255,45.4774833,-122.6493962,3.0,,Mexican
+21978,fc1xRUAEb5ULRV_KGxQYqw,La Morenita Ricos Tacos,18565 SW Tualatin Valley Hwy,Beaverton,97006,45.4948398,-122.8680014,4.0,,Mexican
+21984,CLcP_yRrnjkCzQd2mVKE8A,Asian Garden,14280 SW Allen Blvd,Beaverton,97005,45.4761862,-122.8238882,2.0,,American (Traditional)
+22002,WytdX0Qxe_w0IeeHx7A69A,Casa Colima,6319 SW Capitol Hwy,Portland,97239,45.4786658,-122.6949688,4.0,,Mexican
+22015,Ro35BZZpDcf92BOKvkhoag,Buathong Thai Cuisine,17032 SE McLoughlin Blvd,Portland,97267,45.4006226,-122.6194351,4.5,Some of the best Thai in town.,Thai
+22090,2JY3D3I6LLDBzKZttP33Xg,Garden Bar by Evergreens,1061 NE 9th Ave,Portland,97232,45.5304832,-122.6570109,4.0,Nice fast service. Good selection.,American (New)
+22137,8wpeI9v4Hw4MlaZqmXkzyw,Misohapi Restaurant,1123 NW 23rd Ave,Portland,97210,45.5310297,-122.6989087,3.5,,Vietnamese
+22138,-uvwXYEJ2nSNSvYnk_GS1Q,Sonny Bowl,SW 3rd Ave & SW Washington St,Portland,97204,45.5195838,-122.6748057,4.5,,American (New)
+22142,12IoMXKxPv30LN35U_DGRw,Ichidai Restaurant,5714 SE Powell Blvd,Portland,97206,45.4972866,-122.6035116,4.0,"Closed 7/1/19 through 7/18/19. 
+4 stars hoping they're great when we try them later.",Japanese
+22165,SKUxSni3RpktdICDmTqKxg,DEN,520 SW Broadway,Portland,97205,45.5203297,-122.6788138,4.0,,American (New)
+22283,wPzUnWVsnBihKwPrqY579Q,La Tapatia Market,18330 SE Stark St,Portland,97233,45.5182151,-122.4743454,4.0,Bring cash for the pulga next door!,Mexican
+22334,bjI535fegGdkPA1bqKyTKA,Marie's,8727 N Lombard St,Portland,97203,45.5910098,-122.7553806,3.5,,American (Traditional)
+22389,hVTDl5p5tv483qyD25x17w,Toney Bento,1423 SE 37th Ave,Portland,97214,45.5124648,-122.626091,3.0,,Japanese
+22403,mMBtXe2GRQmRDLnHy2aFlQ,Stanford's Jantzen Beach,12200 N Parker Ave,Portland,97217,45.611534074,-122.681366,3.5,The garlic cheese bread they serve with the salad is over the top and kind of gross. Hard pass for next time!,American (Traditional)
+22416,TFAgn76LjgWoyESs14W0eQ,Taqueria 7 Estrellas,11945 SW Pacific Hwy,Tigard,97223,45.434298,-122.766906,4.0,Muy sabrosa comida mexicana. Recomendada,Mexican
+22494,IKVAh3sHuSLNAB4i2RaV1w,Sandoval's Tequila Grill,1864 SE Hawthorne Blvd,Portland,97214,45.5120166,-122.646327,3.0,,American (Traditional)
+22499,-mkS1HCyYAhst71zM60aZA,Yuki Japanese Restaurant,930 NW 23rd Ave,Portland,97210,45.5294826,-122.6984643,3.5,,Japanese
+22514,0_1g3DSi_dg8qDBXl0UYYA,Costello's Travel Cafe,2222 NE Broadway St,Portland,97232,45.5347786,-122.64243,4.5,Friendly service. Appreciate the pointers. Great coffee.,American (Traditional)
+22567,-UQ0x9Icw7M8uANgG5h6pA,McMenamins Mall 205 Pub,9710 SE Washington St.,Portland,97216,45.5179374,-122.5638816,2.5,Extremely rude service.,American (Traditional)
+22636,qyxeb-o66wtaK8ZauyXMSg,Yalla,7850 SW Capitol Hwy,Portland,97219,45.4676487,-122.7137492,4.5,,Mediterranean
+22637,0EnO-05uOK-b4O5HoJZX7Q,Boxer Bento,1025 SW Harvey Milk St,Portland,97205,45.5222933,-122.6816299,4.0,,Japanese
+22735,4ZcW_kf37w0ur8QFmX5VRg,Teriyaki Bowl,3168 NW 185th Ave,Portland,97229,45.5430155,-122.8662812,4.0,II drive 30 minutes for their entrees. It's gear!,Japanese
+22737,5Pbs2NEEaImU4cO9duvYYQ,Country Bill's Restaurant & Lounge,4415 SE Woodstock Blvd,Portland,97206,45.4793854,-122.6168139,3.0,,American (Traditional)
+22792,4gKq_ydF-naD4wz2Mcgorg,Charley's On Grand,435 NE Wasco St,Portland,97232,45.5327439,-122.6611153,3.5,,American (New)
+22798,gR7sKVdRNXEcNEAz0hkCMQ,Decarli,4545 SW Watson Ave,Beaverton,97005,45.486749,-122.806402,4.0,"If you like salt then be sure to order any one of the pasta dishes. If you don't like salt but are still going to order a pasta, be sure to have a pitcher of water nearby.",American (Traditional)
+22865,WAUlzuTQ1pQOP6HnyC9l9A,Mi Mero Mole,5026 SE Division St,Portland,97206,45.5053055,-122.6105911,4.0,,Mexican
+22908,ljDdPVffS7s3011qpgaj-w,Maple Leaf Restaurant,7129 SE Foster Rd,Portland,97206,45.4869001,-122.5895188,3.5,"Back open for outdoor seating as of January 16, 2021! They built a nice new patio.",Chinese
+23008,78Gdq4rhx7LHRFO6f-WbsQ,El Jefe Taqueria & Mexican Grill,12025 SW Allen Blvd,Beaverton,97005,45.476773,-122.800621,4.5,Incredible!,Mexican
+23017,uQqgBYDN-HjrKJNY0pa80Q,Chen's Dynasty Restaurant,4840 NW Bethany Blvd,Portland,97229,45.5556399099,-122.8346470534,3.0,,Chinese
+23018,1tZcB0q0xcIhn9YWlu516w,Typhoon!,410 SW Broadway,Portland,97205,45.5210643,-122.6783495,3.5,,Thai
+23056,iJdOaAbtvOOIC4IVoF6QLA,Izakaya Kaiten Sushi Restaurant,14605 SW Millikan Way,Beaverton,97005,45.4949393,-122.8280202,3.5,,Japanese
+23070,6d3whKYZeqHWJph_FtzUPQ,Du's Teriyaki,9501 N Lombard St,Portland,97203,45.594773,-122.7592223,4.0,,Chinese
+23096,uosexZjW8xEgBilQPFQDiQ,Bon Appetit,520 SW 4th Ave,Portland,97204,45.5194071,-122.675953,4.0,,Mediterranean
+23217,dWuF7VxQF0R0BVTFHzBaHQ,23Hoyt,529 NW 23rd Ave,Portland,97210,45.5268288015,-122.6986800619,3.5,$2 mimosas here!! Such an incredible deal for Brunch in PDX.,American (Traditional)
+23250,DLYRf-PPuO7SNvuydmAPBQ,Trees Restaurant and Catering,"1211 SW 5th Ave, Ste Ll2",Portland,97204,45.515219,-122.679949,3.0,,American (New)
+23270,8yOpLa-3p0uYzTD6g1KX5Q,Mizu Sushi,1338 SW 3rd Ave,Portland,97201,45.5137909,-122.6776391,3.5,This place was awesome.,Japanese
+23329,OCFkXgSqTPmSlg3Nr6OJQA,Sabor De Mexico,15710 NE Glisan St,Portland,97230,45.5264038865,-122.501305816,5.0,,Mexican
+23375,KsW9Wsaaa5QxNHDxXIDxJA,Pho Hung,4717 SE Powell Blvd,Portland,97206,45.4977027804,-122.6138127138,4.0,I always know that I can count on Pho Hung for comfort and a delicious meal!,Vietnamese
+23434,4R7Dd3sTzh1laeg76fKufQ,Sakura Chinese & Japanese Restaurant,"17691 SW Farmington Rd, Ste C",Beaverton,97007,45.479416,-122.859096,3.0,,Japanese
+23478,qoPWAwq_4UCgQ5RJwMbHfw,Taqueiros Mexican Grill,"17218 SE Powell Blvd, Ste B",Portland,97236,45.4921764359,-122.4863561272,3.5,,Mexican
+23550,z4Rus95P2glp8YMo42XD5A,Langbaan,6 SE 28th Ave,Portland,97214,45.5226928,-122.6371691,4.5,"Shit was bomb as fuck!!!!! Togo
+And all",Thai
+23669,bc3w64ePUXw0zAQpLXFNhg,Basil's Kitchen,14811 Kruse Oaks Dr,Lake Oswego,97035,45.4193168,-122.7414865,3.5,,Mediterranean
+23800,vyY7pF-PZ-hiGqJNUvstVA,Flor de Guelaguetza,5211 NE 148th Ave,Portland,97230,45.5605789964,-122.51050964,4.0,,Mexican
+23830,5saM-yL74Wft6M7GM9W2tQ,Palomino,1203 NW Glisan St,Portland,97209,45.5265394,-122.6829286,3.0,,American (New)
+23844,jcFguai_S9kYYbP9lJ97MQ,Halibut's,2525 NE Alberta St,Portland,97211,45.5591764,-122.639349,3.5,,American (Traditional)
+23857,ydUqtJe5ZrxCSveVne-sxw,Thirst Bistro,0315 SW Montgomery St,Portland,97201,45.5106835734,-122.6740251938,3.5,,American (Traditional)
+23896,1BhQ1A480urS-MjTPGreew,Virginia Cafe,820 SW 10th Ave,Portland,97205,45.5189153,-122.6824999,3.5,,American (Traditional)
+23900,bJg_8vuDsFzm_36gpGH-lQ,The Amigos Taqueria,1864 SE Hawthorne Blvd,Portland,97214,45.5120166,-122.646327,4.0,Deliciosa comida. Buen precio. Y mejor servicio,Mexican
+23902,PdfWPHlX0dQYK1kMSYcxRw,SushiBen 2-go,2425 SE 26th Ave,Portland,97214,45.5050516,-122.6396608,4.0,,Japanese
+23951,GVuTrJCIfl8kwlNnWdgaSw,El Sazon Mexican Food,11324 NW St Helens Rd,Portland,97231,45.6029014289,-122.7885097199,4.5,,Mexican
+23966,4ygrj7RIIKfls09X3LN0tg,Upright Brewing,"240 N Broadway, Ste 2",Portland,97227,45.5347769275,-122.6682972908,4.5,,American (New)
+23970,vYY9CAMgS2QZ2uAkKg8zEA,Deb's Blazin Grill,8145 SE 82nd Ave,Portland,97266,45.4635086,-122.5794524,3.5,,American (Traditional)
+23993,GSXWrv67AHbx8X4ysXsG-Q,Luchador Bar & Lounge,4835 N Albina Ave,Portland,97217,45.5580381,-122.675244,4.0,,Mexican
+24000,FgFSTYpCOseBYxAq4FY9Ag,K.A.C. Thai Fusion,710 SW 2nd Ave,Portland,97204,45.517864972699996,-122.674536109,3.5,,Thai
+24041,oCp1v8dizmfB_13CVEUJXA,Thanh Thao,4005 SE Hawthorne Blvd,Portland,97214,45.512196,-122.6212835,3.5,,Vietnamese
+24083,MzIrEXhiTALvtSfXOvheKA,Hot Pot 'n Sushi,10127 NE Cascades Pkwy,Portland,97220,45.5730768476,-122.5576400757,2.5,We love this place.,Japanese
+24101,jKJ7zgb8epZmSFb3PSQvhQ,El Indio,11114 NE Halsey St,Portland,97220,45.5332859,-122.5481984,3.5,Great food!,Mexican
+24181,4x998NTLjVrqCqHRyBKQJw,The Sandwich Club,4810 SW Western Ave,Beaverton,97005,45.48455,-122.782023,5.0,,American (Traditional)
+24200,NWOhe4a3A_OTcxp-3Nc6Wg,Pause,5101 N Interstate Ave,Portland,97217,45.5599584,-122.6825667,3.5,,American (New)
+24226,BQruX5uWv547nSFgy9H9Zw,Blueplate,308 SW Washington St,Portland,97204,45.5195692,-122.6752567,4.0,,American (Traditional)
+24234,2xYfiiY37UutDP70h3g81g,Encanto,5225 N Lombard Street,Portland,97203,45.5818344,-122.7220503,4.0,,Mexican
+24237,RPkpaKuqcJ_5bflxfyB_cQ,Cackalack's Hot Chicken Shack,26 SE Belmont,Portland,97215,45.5165563,-122.6647677,4.0,,American (New)
+24283,54s5ztBl6WVhgHdHtShoKQ,Sushi Sapporo,"9738 SE Washington St, Ste M",Portland,97216,45.5177814,-122.5627544,4.5,LOVE IT this place fireee !! Go try it out !! Delicious sushi at fair price,Japanese
+24360,2o1Cqyo93wYAQFZxnJjQsQ,Davidson's Casual Dining,12830 SW Pacific Hwy,Tigard,97223,45.4270707782,-122.7777354004,3.5,"https://www.kptv.com/news/tigard-restaurant-owner-offers-free-christmas-eve-dinner/article_e90d9bb8-26b1-11ea-b033-0f5ab0dd69f1.html
+
+Also, I want to proclaim how very appreciative I am that only service dogs are allowed per the previous tip I read.",American (Traditional)
+24377,qd1ZarJvGy9NYgZRXASS6g,Acapulco Mexican Restaurant y Cantina,10566 SE Washington St,Portland,97216,45.5180724,-122.5544966,3.0,,Mexican
+24379,1qoBLcAeuLcRhVF67I-AwA,Tammy Kitchen To Go,3323 NE Killingsworth St,Portland,97211,45.5628773,-122.6302503,4.5,,Vietnamese
+24391,ZPQY4VrsBhwd6z4dMDrT9Q,Higgins Restaurant,1239 SW Broadway,Portland,97205,45.515572,-122.682,4.0,Garbage foo-foo inedible dreck,American (New)
+24392,oZKnFWAQruI1GXIHPwMq9w,Som Tum Thai,601 SE Morrison St,Portland,97214,45.517345399999996,-122.6595992,4.0,,Thai
+24429,IUUb4qaJyL-pq0-AVARw2g,All-Spice Deli,911 SW 10th Ave,Portland,97205,45.5185757,-122.6826516,4.5,,Mediterranean
+24464,8lyquwnwP_YqCw52jPEVZQ,Mixers Bar & Grill,11920 SW Pacific Hwy,Portland,97223,45.433526,-122.7654157,3.0,,American (Traditional)
+24527,p6sXRENH6EMxNkMZGr8w1A,Oaxaca Super Tacos,6306 NE Halsey St,Portland,97213,45.5335311,-122.5987353,4.5,,Mexican
+24549,VMWl0P-6S9nvXemAvmxAqw,Julie's Food,SW 5th Ave & SW Stark St,Portland,97204,45.5207826,-122.6764204,4.0,,Chinese
+24773,745p5XuflRgwQGywu2WZZg,Duffs Garage Lounge,2530 NE 82nd Ave,Portland,97220,45.54063,-122.57851,3.0,,American (Traditional)
+24821,QX6KYb-ysD3PZGOdOT7-yw,Oh Mama’s Kitchen,8500 SE 17th Ave,Portland,97202,45.461287,-122.6465899,5.0,Great food. Authentic Korean ohma cooking authentic Korean food,Japanese
+24827,DhG2qy2vrlDplFS6vKYpvw,Pachanga's Taqueria,3893 SW Hall Blvd,Beaverton,97005,45.492124,-122.8066634,3.0,,Mexican
+24843,0-ToVc_rvDYKAjNQVAGJwA,Ricos Burritos,4631 N Albina Ave,Portland,97217,45.5567401216,-122.6752150985,5.0,Love these guys! High quality everything. I especially like the chile verde burrito.,Mexican
+25008,ExsPDIhdiQ-9tRfxdMJ20w,China Wind Restaurant,8355 SE Powell Blvd,Portland,97266,45.4976845,-122.5763837,3.5,Great steamed chicken!!!!,Chinese
+25056,fh2hQUsTU5nghb2LyFfOEg,Rama Thai Restaurant,12874 SW Canyon Rd,Beaverton,97005,45.487862,-122.808984,4.0,Love this place! The food is always of high quality. The portions are great.,Thai
+25216,dr53BmsQXqhPcK4hndOtSQ,August Moon,116 SW Clay St,Portland,97201,45.512391,-122.676971,2.5,,Chinese
+25282,Z6P-iiwcqYimrV-_oszpQg,Hilton Portland Downtown,921 SW 6th Ave,Portland,97204,45.5173584,-122.6797302,3.5,Great friendly staff!,American (New)
+25332,hTCXcKKnbCVR5aDebi-FYw,On Deck Sports Bar & Grill,"225 SW Broadway, Ste 100",Portland,97205,45.5223443,-122.6783525,3.5,,American (Traditional)
+25356,O3tFGg1S7NG93XaXLNY0YQ,Robo Taco,607 SE Morrison St,Portland,97214,45.5173515652,-122.6594012082,3.5,"Good food, bad farts. Five stars.",Mexican
+25417,6Qq_ikt4NKgpYwiyntIG4w,Mee Sen Thai Eatery,3924 N Mississippi Ave,Portland,97227,45.5512434,-122.6752042,4.0,My favorite Thai in town!,Thai
+25534,RjolSzfxkTfw4SDbS5NpGQ,California Tacos,8218 SE Holgate Blvd,Portland,97266,45.4899020233,-122.5785986142,4.0,,Mexican
+25643,cvLkq3hxRKH--995r1gv4A,Mediterranean Exploration Company,333 NW 13th Ave,Portland,97209,45.525543646,-122.6844740767,4.5,Some of the best Mediterranean food I've had.,Mediterranean
+25663,vxnXKOdHqXHca-7kAAhl3g,Oishi Thai,907 SW Gibbs St,Portland,97239,45.49934,-122.6897571,4.0,,Japanese
+25694,a6nRAAAkYFRZEytxtyUX3Q,Sheish Kabob Grill,Sw Washington St & Sw 10th Ave,Portland,97205,45.5213427,-122.681369,3.0,,Mediterranean
+25701,Fua4wspyBwJYSC47FlYZSg,Shiki Restaurant,"8931 SE Foster Rd, Ste 105",Portland,97266,45.480746,-122.570284,4.0,,Japanese
+25829,YYrk1Yn5POGfJC03nIxHgQ,Villa Angel Taquería,519 SW 9th Ave,Portland,97205,45.5209353,-122.6806066,4.5,,Mexican
+25843,dP8kzu89rixfeVFa9j_c7Q,Short Round,3962 SE Hawthorne Blvd,Portland,97214,45.5118698738,-122.6216422766,4.0,Amazing bon mi! Maybe would say best Iv had. 1 off on happy hour!,Vietnamese
+25859,JjOoABGI_bODnJzi0pXPxw,Noraneko,1430 SE Water Ave,Portland,97214,45.512368,-122.665523,3.5,One of my fave ramen spots. Get the chicken and curry ramen if you fuck w cilantro.,Japanese
+25878,B6UDrbORnp5CwPLtyVYwrw,KOi Fusion,,Portland,97224,45.4081316,-122.80338449999999,4.0,Poor food soggy meat,Mexican
+25923,rgNKox1182R0pjAyxHz1DQ,Panda Express,8400 SW Nimbus Ave,Beaverton,97008,45.458936,-122.789042,3.0,,Chinese
+25952,ZV6ixgIFXdWECPmYRc6DNA,Ava Gene's,3377 SE Division St,Portland,97202,45.5049056304,-122.6298817629,4.0,Go for brunch. I highly recommend!!,American (New)
+25983,7sOgPMutSK8PVENF38hB2A,Rigoberto's Taco Shop,15855 SE Mcloughlin Blvd,Portland,97267,45.4081309797,-122.6262740914,3.5,Love their shrimp tacos!,Mexican
+25998,iV1m5bNWATicpdCZ-4Hifg,BLT,1313 NE Alberta St,Portland,97211,45.5592411,-122.6522385,4.5,,American (Traditional)
+26002,7mvcTuFEz6h_Bd9DZp-eRg,Tangier Moroccan & Mediterranean Cuisine,221 SW Pine St,Portland,97204,45.5214629,-122.6732146,4.5,Get the cabbage rolls!!,Mediterranean
+26020,m6ndbuVttfdAiu8CmJWnxw,Central,220 SW Ankeny St,Portland,97204,45.5224956,-122.6727796,4.0,,American (New)
+26026,1JZXR74zaIM2DhpEv-YQJg,Wu's Open Kitchen,15660 SW Pacific Hwy,Tigard,97224,45.4066917,-122.7948631,3.5,Fantastic!,Chinese
+26219,fP6Fw0ff7_aedoiRg9v2cQ,Money Bowl,,Portland,97201,45.505603,-122.6882145,3.0,,Chinese
+26226,YGOOQNj_VqKl9_v388Qe4Q,Pollo Norte,5427 Ne 42nd Ave,Portland,97218,45.5623782703,-122.6206385312,4.0,,Mexican
+26334,7GTHn2SBneV7Hfxn2P04Gg,Mashita Teriyaki,12118 NE Glisan St,Portland,97220,45.5262846,-122.5385429,1.5,,Japanese
+26348,fBakj5HdIJMLcEC2b8lNTw,Tecos Mexican Restaurant,4132 SE Powell Blvd,Portland,97202,45.4973122,-122.6191573,3.5,Food was disgusting,Mexican
+26387,tBeUzJ5RxNbArmXgQOU3MQ,Somar Restaurant,12590 SW Broadway St,Beaverton,97005,45.4873388,-122.8055804,4.5,,Mediterranean
+26431,wsw77Ib7qrTNpVTAHAiUbg,Burrito Bar,911 NW Hoyt St,Portland,97209,45.5273579,-122.6803932,4.0,Sooo good and friendly staff!,Mexican
+26434,E2hfpFCvPfcaD_LQ_jT18g,Lemongrass,1705 NE Couch St,Portland,97232,45.5237469,-122.6483405,4.0,,Thai
+26443,bbfPJmeePL8RZr8koVC1vQ,Cha Cha Cha Taqueria Thurman,2390 NW Thurman St,Portland,97210,45.5352682,-122.7006999,4.0,,Mexican
+26484,5Hyu7_OmPAj7TmQiQ60Qcw,The Orient Chinese Restaurant,1025 NE Broadway St,Portland,97232,45.5352253,-122.6549357,3.0,,Chinese
+26525,IHKC1zhWQ_kV9_vuEc4GvA,Tokyo Grill,6551 SW Beaverton Hillsdale Hwy,Portland,97225,45.487612,-122.744254,4.0,This place is bomb! Spicy chicken is our go to!,Japanese
+26569,XYI4h0Jz6cCsPWuoMtp5Dg,Poco India,8145 SE 82nd Ave,Portland,97266,45.4635208,-122.5795807,4.5,,Mexican
+26719,px67zJJntVrgXq6yphXn-Q,Legin Restaurant,8001 SE Division St,Portland,97206,45.5057328,-122.5809748,2.5,,Chinese
+26777,94t4-6E819Zakw-7RUMbjA,Tennessee Red's BBQ,2133 SE 11th Ave,Portland,97214,45.5073625,-122.6549057,3.0,,American (Traditional)
+26832,M_mFA6lalmMjuw5Ad927-w,Baba’s Mediterranean Grill,2026 NE Alberta St,Portland,97211,45.5589503,-122.6442587,4.5,"Stale food, not slot of flavor sadly, some of meet was raw, and was out of tzatziki.",Mediterranean
+26866,Gg1jgbHgREMZDYCTZxAjSA,Hastings American Eatery,7000 NE Airport Way,Portland,97218,45.5892013,-122.5934769,1.5,,American (Traditional)
+26899,n73rxa6e6-fTIxQzfv4BuA,Mother’s Bistro & Bar,121 SW 3rd Ave,Portland,97204,45.522196,-122.673868,4.5,"Excellent comfort food. A little pricey. I return at least
+Once a month.",American (Traditional)
+26933,bMcZJ3P06PlIpNcMS0W4og,P.F. Chang's,7463 SW Bridgeport Rd,Tigard,97224,45.395697,-122.7524278965,3.0,I love the food and service there.,Chinese
+26960,ick6qFFuPlT25No1rQb7bA,Teriyaki Express,15969 SW 72nd Ave,Portland,97224,45.4052997,-122.7491436,3.5,"Ehhhh fairly tasty, a little disrespect and then some ehhh",Japanese
+26994,A0SYDO3rzf0cyN94yp0CQQ,Koi Gardens Vietnamese Cuisine,10041 NE Glisan St,Portland,97220,45.5265299,-122.5599356,4.5,Gi cun to đùng toàn là rau và bún. Ăn 1 ln trn luôn,Vietnamese
+26998,xxjGT-168q3JhU50MJ_QfQ,The Bitter End Pub,1981 W Burnside St,Portland,97205,45.5232047,-122.6921107,2.5,,American (Traditional)
+27053,Mtflfhc3oLiD9Gm5cTVZhw,Shandong Restaurant,3724 NE Broadway St,Portland,97232,45.5350058,-122.6243404,3.5,Delicious and helpful,Chinese
+27069,2JUVSceit_tqtUwctTz2VQ,Lela's Bistro,1524 NW 23rd Ave,Portland,97210,45.5337897,-122.6985245,4.5,Great food! Our pick for pho in Portland.,Vietnamese
+27116,-3jJSQtMfsGacIUHaFcZbQ,Bonsai By Sake Japanese & Thai Cuisine,"615 SW Broadway, Ste 102",Portland,97205,45.5198128895,-122.679629511,4.0,Very good food! Love the vibe in this place too. Family friendly as well,Japanese
+27274,L1he7H2_XC6j-70dTE4OMw,August Moon Chinese Restaurant,405 NW 23rd Ave,Portland,97210,45.5256687,-122.6986228,2.5,They take for ever for your food to be ready for us delivery drivers,Chinese
+27306,0YfaKianUidtlzT2PqTUbQ,Planet Thai,12600 SW Crescent St,Beaverton,97005,45.4908714,-122.8076049,3.5,,Thai
+27341,2OWL5-TJxIj3XfSqKeOG3A,Albertina's Kitchen,424 NE 22nd Ave,Portland,97232,45.5260449,-122.6430258,5.0,,American (New)
+27384,lk5-hHpqFsTVqVbIJRAiew,Sun Grill Teriyaki,421 NW Saltzman Rd,Portland,97229,45.5234712849,-122.8062617208,4.5,,Japanese
+27394,EBE6CddnNVsmD02H4xHY1Q,MeKha Grill,4912 SE Division St,Portland,97206,45.5051624534,-122.6117680448,4.5,Don't be fooled by the two tiny tables out front - they have a large patio out back as well!,American (Traditional)
+27417,424dZZImIrDTOyeRFta6Jw,Saithong Thai Fusion,710 SW 2nd Ave,Portland,97204,45.5177213,-122.6743843,4.0,,Vietnamese
+27466,vMXnz8koOy1EkTaOZlVG8g,Pho Dalat,10232 NE Sandy Blvd,Portland,97220,45.558749399999996,-122.5569907,3.5,The place is not the cleanest. Germaphobes beware.,Chinese
+27549,Ly0MTE94Nk4F-z5H0pJQiQ,Peter's Bar and Grill,5701 NE Fremont St,Portland,97213,45.548392,-122.604399,4.5,They need to put those biscuits and gravy on the regular menu. I'm obsessed.,American (Traditional)
+27554,fhyZiY312TB2P9w-ZcT7xQ,On Deck Sports Bar & Grill,910 NW 14th Ave,Portland,97209,45.529576,-122.685362,3.0,I found their potato salad to be quite enjoyable,American (Traditional)
+27583,d2I02ZzvfCHtcOoDaYszuw,Kwang Chow Restaurant,7980 SE King Rd,Portland,97222,45.446851,-122.5815927,3.0,"They now take cards!  Finally.
+My go to place for many years.",Chinese
+27643,JaFT6r3w3WrFIPVPeSSUdg,Burgatroyd,4233 N Mississippi Ave,Portland,97217,45.554373,-122.6758145,4.0,,American (Traditional)
+27674,-tBCXprT_Fj8N8b5Q4B3BQ,The Big Dilla,7538 N Lombard St,Portland,97203,45.5881666,-122.7444808,5.0,Husband had the breakfast quesadilla and I the lunch. SO good.,American (New)
+27686,oQb8qSoddfZmbrEfaNnjlA,Marinepolis Sushi Land,1409 NE Weidler St,Portland,97232,45.5344778,-122.6512095,3.0,,Japanese
+27701,pnyZXRDg9gdYcRpGjXNwbQ,Pettygrove Station,1401 NW 19th Ave,Portland,97209,45.5329348,-122.690841,4.0,Pizza to go not so good. Bland.,Mediterranean
+27703,ytw31Dq0F_U9WZU87O87XQ,Pho Thien Vietnamese Cuisine,10041 NE Glisan St,Portland,97220,45.5265299,-122.5599356,3.5,,Vietnamese
+27708,lZ8K_vEvCCL1_4_eAN1NCg,Drunken Noodle,5907 N Lombard St,Portland,97203,45.5842251,-122.7283526,4.0,"My favorite Thai place in Portland. Down to Earth, great food, quick service.",Chinese
+27725,l2Teq5Bm2BI-5tIag2kITQ,Cha Cha Cha Mexican Taqueria And Bar,3808 N Williams Ave,Portland,97212,45.550401,-122.666443,3.0,,Mexican
+27771,es1uVr0QlXPI_mRoe9f2ew,Koji Osakaya,2838 SE 82nd Ave,Portland,97266,45.501653,-122.576803,3.0,,Japanese
+27795,bUfWUUVqJkrcqKRZTNRabw,Caps & Corks,1000 NW 17th Ave,Portland,97209,45.5301172519,-122.6883172989,4.0,,American (New)
+27831,5U_zmHupqEXdZglqHiQ0iA,Top Thai Kitchen,"330 N Marine Dr, Ste B",Portland,97217,45.6017534,-122.6698353,4.5,,Thai
+27899,wlEV8uK53BYXf7lZEYBctA,HunnyMilk,1981 W Burnside St,Portland,97209,45.5232386,-122.6921151,4.0,The best!,American (New)
+27924,NUiOOJML2GN3_34V-Pn3Sw,Burgerville,3432 SE 25th Ave,Portland,97202,45.4982970507,-122.6400286294,3.0,"Pretty good, love the shake, yummmmmmmmmmmmmmmmmmm",American (Traditional)
+27958,MJ1qkJSFLWAil3DBh2-Eog,Flying Elephants at Montgomery Park,2701 NW Vaughn St,Portland,97210,45.5375454,-122.7078005,2.5,,American (New)
+27971,jhaxQuv2unJnV-tS5wNyHg,Original Hotcake House,1002 SE Powell Blvd,Portland,97202,45.5011337,-122.6555763,3.5,Everything a diner should be,American (Traditional)
+28112,NMFFsgYwVRMj3rGSWITAIg,Sushi Ichiban,24 NW Broadway,Portland,97209,45.5235213,-122.677122,4.0,Best salmon nigiri in... the USA I think.,Japanese
+28150,CJ2TGeBSkxL9UIWwvyXnTg,Mekong Vietnamese Grill,7952 SE 13th Ave,Portland,97202,45.4662883,-122.6527557,4.0,,Vietnamese
+28151,j80M21cv9xCxnXkz1z4tag,Sushi & Teriyaki,16937 SW 65th St,Lake Oswego,97035,45.3976142374,-122.7452589305,3.5,,Japanese
+28161,IkREJf1f078kPgMjPS6gOQ,Sila Thai,7538 N Lombard St,Portland,97203,45.5881666,-122.7444808,4.5,,Thai
+28237,NMsNXqbIYxKcLl6_lW6fYw,Fandango Restaurant & Cantina,12222 SE Stark St,Portland,97233,45.5187288,-122.5366793,2.5,,Mexican
+28349,8cBHlU_EinqyAld1aAeNPA,Buffalo Wild Wings,"1200 NE Broadway St, Ste 20",Portland,97232,45.534652925,-122.6529121399,2.5,,American (New)
+28429,9vz9ZuPtC0ud2U771MNKZQ,Vice Bar and Grill,2422 SE Hawthorne Blvd,Portland,97214,45.5119035,-122.6410246,4.0,,American (Traditional)
+28474,MJuk7AH-iWZ804NBDcG96Q,Papaya Thai Restaurant,7202 SE Milwaukie Ave,Portland,97202,45.4723444,-122.6481962,3.5,,Thai
+28542,rdTesjrA1E9EEiBsyEzALQ,Spice Thai Kitchen,1924 SW Broadway,Portland,97201,45.5102417,-122.684209,3.5,"FFF. The service was Friendly, the food was Fast and Flavorful.",Thai
+28761,DtHsu_dWcgVkcaifLPxnlA,Los Temos Taqueria Milwaukie,17254 SE Mcloughlin Blvd,Portland,97267,45.3986848,-122.6178589,4.0,The best burrito you'll find in the Portland metro area!! You must try!,Mexican
+28762,nZ9gAde4qhL-OdBDDf1f8A,Decoy,10710 NW Saint Helens Rd,Portland,97231,45.599037,-122.7857174,4.0,Good patty melt and onion rings!,American (New)
+28794,hWRiLYsgukOruLooKesijw,Blue Moon Diner,20167 SW Tualatin Valley Hwy,Beaverton,97006,45.4965157687,-122.8845755383,4.0,Pancake was cold. It seemed to be cooked previous night.,American (Traditional)
+28843,Iymhs82Zs5D7Jadkk4Ur6A,Los Michoacanos,14800 SE Stark St,Portland,97233,45.518907,-122.5101675,4.5,,Mexican
+28845,Nxe8WCcTLbvKg6rO-WDklQ,Esparza's Tex-Mex Cafe,2725 SE Ankeny St,Portland,97214,45.522294,-122.637589,3.5,,Mexican
+28852,zt_Dy0aW6LLY_k2Uo-TxDw,Santería,703 SW Ankeny St,Portland,97205,45.5227091,-122.6780149,4.0,A great place. Superb food. Friendly staff. Excellent. Many vegan options.,Mexican
+28901,Lumb46k_XewJWjdT8vE61A,Taco King Mexican Grill,,Portland,97214,45.5113506,-122.6456739,4.0,,Mexican
+28921,YamBaAjEaCueu5ZgUEElOA,Mississippi Station,3939 N Mississippi,Portland,97227,45.5514269,-122.6758426,3.5,,American (Traditional)
+28974,3t3Jxq8EMqX3VA_qG6tN4g,Sizzler,3737 SE 82nd Ave,Portland,97266,45.4950627,-122.5790939,2.5,,American (Traditional)
+29013,jlzVZ0qiFDCdEZ3aa6YvQg,Pho Nam,15035 SW Barrows Rd,Beaverton,97007,45.4293865604,-122.8309301207,4.0,"If you like ramen, then definitely try their BBQ Pork and Egg Noodle Soup (Mi Xa Xiu). It's extremely flavorful and an excellent alternative if you want to try something different than pho.",Thai
+29046,63o0KvrnCoZntAPR_E7QVQ,Kurata,450 5th St,Lake Oswego,97034,45.4206908,-122.6693659,4.0,Very good sushi!,Japanese
+29083,GSW508Gb5ugE6ZHCqeuwUg,Don Kamaron,16246 SE Stark St,Portland,97233,45.5188614,-122.4952468,4.0,YUM,Mexican
+29111,dpUMrsEepkWrK3lTMX0pRQ,Island Cafe,250 NE Tomahawk Island Dr,Portland,97217,45.60359,-122.66339,4.0,"Great service, delicious food, beautiful view!",American (Traditional)
+29120,jHuFBylv2xCXZltNPDdKng,My Thai Bistro,3500 SE Hawthorne Blvd,Portland,97214,45.5119256,-122.6284971,4.0,,Thai
+29124,nbjean9RG4nVGnjo4EccxA,Yen's Chinese Restaurant,12265 SW Main St,Tigard,97223,45.4313929,-122.7703522,3.5,Great food and quantity for the price,Chinese
+29166,UH6eiqO_wFaWh4OH1DJcpg,Big-Ass Sandwiches,5663 NE Glisan St,Portland,97213,45.526731,-122.604998,3.5,,American (New)
+29171,mNSNd3RY7kamIDKyw0hHpQ,What's The Scoop?,3540 N Williams Ave,Portland,97227,45.5489817156,-122.6665197543,4.0,"Great ice cream, very sweet worker! 10/10 would recommend!",American (Traditional)
+29213,CeDjZ2bl0CsaFuHvuJS1ew,Pho Binh Minh,"11945 SW Pacific Hwy, Ste 242",Portland,97223,45.4339504,-122.7652291,3.0,,Vietnamese
+29243,KY6U5-yjysoOBOrfnDBLHw,Concordia Ale House,3276 NE Killingsworth St,Portland,97211,45.5625483,-122.6310868,3.5,,American (Traditional)
+29261,vrn5qBAmwF_qHiK2BtJ50w,Mary's Club,129 SW Broadway,Portland,97205,45.5227709,-122.6778636,3.5,,Mexican
+29269,SdnJuGi1mQhoCh7UgncfxQ,Fuller's Coffee Shop,136 NW 9th Ave,Portland,97209,45.5242928,-122.6797846,4.0,Yum! We also got Huevos Rancheros. No complaints here! Clearly a staple in the Pearl,American (Traditional)
+29284,b_oVyExZk-QrnZOWX5sXhA,Baiyok Thai Cuisine,150 NE 82nd Ave,Portland,97220,45.524294,-122.578803,4.0,,Thai
+29302,3M3-qGovXS-tGF-jMWY-CA,Sushi & Maki,"10822 SE 82nd Ave, Ste L",Portland,97086,45.4448674,-122.5771492,4.0,Aewsome sushi dragon roll and sides are the best super kind service,Japanese
+29304,BUAqDt6h5oVtmCAQwmNGcA,Stella Taco,2940 NE Alberta St,Portland,97211,45.5588858,-122.6350114,3.5,Nachos and mango margarita delish!!,Mexican
+29305,6y1Fly49Ggc3rD2Go5g4Lw,Azteca Mexican Restaurant,10505 SW Beaverton-Hillsdale Rd,Beaverton,97005,45.4870171,-122.78504,3.5,Excellent service and food. Very friendly staff! I highly recommend this place!,Mexican
+29333,muRuTT70YKHgd46zPU6NYg,Sagittarius,2710 N Killingsworth St,Portland,97217,45.5626104,-122.69486,4.0,,American (Traditional)
+29353,xZSCejglTwAop9TbN2cWWA,Woodstock Teriyaki,4310 SE Woodstock Blvd,Portland,97206,45.4791459,-122.6183865,2.5,,Japanese
+29379,Vp1kiliceNp6_K8tkRCTCg,La Cocina Restaurant,3901 N Williams Ave,Portland,97227,45.550892,-122.667025,4.0,seafood taco is HOTTTTTTT.,Mexican
+29399,NDyx6d5639qT8Lw4mDFg0Q,Wa Kitchen Kuu,125 NE Martin Luther King Jr Blvd,Portland,97232,45.5238747,-122.6620274,4.5,Ultimate yummo. Food was just perfect.,Japanese
+29445,XTRU0oWTxh4R8XcjGref8w,Tosis Restaurant,6120 NE Sandy Blvd,Portland,97213,45.5439001,-122.5995999,3.0,,American (Traditional)
+29525,VAf2QAHSA8fbzvgprB-Emw,Shogun Noodle,2838 SE 82nd Ave,Portland,97266,45.501653,-122.576803,3.5,,Japanese
+29681,ccsaDHSsbJJsRwSRIUNjuA,Good World Chinese Restaurant,10721 NE Sandy Blvd,Portland,97220,45.5588711,-122.5521203,3.5,,Chinese
+29690,_LyLx6kzm6JPjG5y5TZbTQ,Ramen Ippo,1845 NW 23rd Pl,Portland,97210,45.536227,-122.7000932,4.5,Great food and speedy service. I'm be eating here often,Japanese
+29766,lK-I8qZGu_ne56maS5im3Q,Fire on the Mountain,4225 N Interstate Ave,Portland,97217,45.5541179683,-122.6819765568,3.5,"What a pain.  You can't call to order, online not accepting orders.",American (Traditional)
+29774,m8H4SDySCCNcq4LPHnr1mQ,Grand Cafe American Restaurant & Bar,832 SE Grand Ave,Portland,97214,45.5166496,-122.6604043,2.0,,American (New)
+29807,cZUo9o_zABcU6Hj0_D1j0w,Pho Wah,3645 SW Hall Blvd,Beaverton,97005,45.4935106,-122.8075045,3.5,,Vietnamese
+29809,E5et9Z2nHo_9_6NiF5yQ9w,Woks Up Beach Volleyball,17527 SE Stark St,Portland,97233,45.5194272,-122.4825755,4.0,,Chinese
+29902,NhJVmAdZqEiP1Zfr3-LezQ,Honky Tonk Taco,3384 SE Division St,Portland,97202,45.5045639,-122.6298797,3.0,,Mexican
+29908,wmPAEUwk-MyTjp4qC9MRBA,Bon Teriyaki,10308 SE Washington St,Portland,97216,45.5179319,-122.5573978,3.5,,Japanese
+29916,YJiRdwe4lgV1lNEPkNLcCA,BaRa Sushi House,"2625 SE 21st Ave, Unit B",Portland,97202,45.5036895,-122.6448422,3.5,,Japanese
+29979,x4sq4nYqjmeItcGjm8vLbw,Living Room Theaters,341 SW 10th Ave,Portland,97205,45.5223194,-122.6813545,4.0,The best,American (New)
+30034,OsML9ijOkYRCOrwBaV3dZA,Popeyes Louisiana Kitchen,14611 SE McLoughlin Blvd,Portland,97267,45.417141,-122.6332788,2.0,I love this place,American (Traditional)
+30060,q2UFu4CawKYBRT218sCTig,Angelina's Greek Gyros,112 NW Couch St,Portland,97209,45.523815,-122.67161,4.5,,Mediterranean
+30081,bzE_t2fKKHF6QZvj6lL6AQ,The Central Hotel,8608 N Lombard St,Portland,97203,45.5899890837,-122.7548416672,3.5,,American (New)
+30119,qnLOj8NrUQNyKh3bwshJTw,Thai Apsara,11793 SW Beaverton Hilldales Hwy,Beaverton,97005,45.4881778415,-122.7984380722,3.5,.,Thai
+30133,MzxZ8i_w32yjkuiI-9Bh8A,Thai BBQ,4811 SE Powell Blvd,Portland,97206,45.497735,-122.61328,4.0,Delicious and authentic food- :),Thai
+30146,mOJqQZIwCsQuzkaGsAb4kg,La Catrina,1235 SW Jefferson St,Portland,97201,45.5167262,-122.6869077,2.5,,Mexican
+30160,y0RNIBpDipzDVlq5lF62Ow,Bro-Dogs + Burgers,719 SE Morrison St,Portland,97214,45.5173932,-122.6580624,5.0,,American (New)
+30167,x2v-vBC17E5NOf3CqBEG1w,Maria Bonita Mexican Grill,3893 SW Hall Blvd,Beaverton,97005,45.492124,-122.8066634,4.0,Great Mexican food! Big portions mean leftovers for lunch the next day!,Mexican
+30191,sCTbOX61Jhcb-4gWvINgug,Fern Kitchen,2311 SE 50th Ave,Portland,97215,45.5063543,-122.6113391,4.0,Please reopen for takeout we miss you,American (New)
+30217,h9ECxWdzwOslExaNOVHT8g,Giant Gyros Mediterranean Food,10115 SW Nimbus Ave,Tigard,97223,45.4465989,-122.7904975,3.5,"This place was amazing, but I'm not sure it's still open. Unfortunately.",Mediterranean
+30279,kR3QCLIxVJ4nfYzIQa9mAg,Putter's Bar & Grill,7305 SE Woodstock Blvd,Portland,97206,45.4798091,-122.5878146,3.5,,American (Traditional)
+30282,z6zwhYfTjnA7m0bmQxJPNQ,Tarad Thai,601 SE Morrison St,Portland,97214,45.5173581053,-122.6596010854,4.0,"FYI. The prices on the website aren't correct. Pointed out that I was charged more when I went to pick up my take out order, yet they wouldn't honor their listed price.",Thai
+30283,TjGQo2e8UKWxzZHTuOeaAg,The Ambassador Restaurant,4744 NE Sandy Blvd,Portland,97213,45.5384205,-122.6141817,3.0,,Chinese
+30366,9mq-5ps1gNuwwkjvlW8rPQ,Rose's Restaurant & Bakery,1200 NE Broadway,Portland,97232,45.5346817,-122.6528156,2.0,,American (Traditional)
+30440,Am9IVkBO0PXKN_Vx33aL5Q,Casa Pequena Taqueria,"430 5th St, Ste A",Lake Oswego,97034,45.4204041,-122.6693541,4.5,Slather your meal with their delicious hot sauces.,Mexican
+30465,simVdSlySRDEIWaAXiDOfQ,La Neta,15 NW 4th Ave,Portland,97209,45.5234861,-122.6745926,3.5,So so food great service,Mexican
+30477,9hM3xRci3qGp6O7dxdq9Lw,Gonzalez Taqueria,1540 N Killingsworth St,Portland,97217,45.5625127,-122.6832221,4.5,Best carnitas burrito I've ever had,Mexican
+30490,gUjYIhat7LI18_7lUcX-Lg,Teriyaki Beef Bowl,421 NW Saltzman Rd,Portland,97229,45.5235837,-122.8065729,4.0,,Japanese
+30491,NFnSQjZr763o2-6I1MuHbQ,Thien Hoang Restaurant,"8001 SE Powell Blvd, Ste K",Portland,97206,45.4988324915,-122.5798123592,3.5,Reheated frozen potstickers is not real postickers FYI,Chinese
+30500,GLKLxN4WbcSQNg3fGoX8bw,Saigon Kitchen,5th Ave & Main St,Portland,97201,45.5159861994,-122.6790473555,4.0,,Thai
+30534,mYkKC-kInjWERxIhpQ1R5Q,La Sen Vietnamese Grill,13227 SW Canyon Rd,Beaverton,97005,45.489069,-122.8131199,4.5,,Vietnamese
+30548,ep1TKJkKM7TH3xicC6j6uw,Fremont Ridge Inn,5103 NE Fremont St,Portland,97213,45.5484231,-122.6100606,3.5,,American (New)
+30600,7j2ENXLI1aCH2LEg2IhGJw,Portland Sports Bar and Grill,"1811 SW River Dr, Ste 200",Portland,97201,45.5090853709,-122.6735617989,3.5,Great gyro and fries! Awesome location!,American (Traditional)
+30614,SIoFr1NZHvi7miJVfNev9Q,Kinara Thai,1126 SW 18th Ave,Portland,97205,45.5188947,-122.6920719,4.0,Great tasting food. Cozy location. Very good service.,Thai
+30814,0QOQ_4Y-udB0RENnuhUJTg,Thai Terrace,902 N Killingsworth St,Portland,97217,45.5626172,-122.6761541,3.5,,Thai
+30885,SsxQAcZ7SMcUaor0PJEuhg,Iconic,2226 NE Broadway,Portland,97232,45.5349973,-122.6427284,4.0,,American (New)
+30893,GGjdZDWSBRayf3WW7fszEA,China Bay Restaurant & Lounge,13281 SW Canyon Rd,Beaverton,97005,45.4886308,-122.8132707,3.0,,Chinese
+30912,qleF7_dURx4I9Wyyu3W3tg,Ram Big Horn Brewery,320 Oswego Pointe Dr,Lake Oswego,97034,45.4178703,-122.6585315,2.0,,American (Traditional)
+30923,xbTkgXyownGecu-TQxnR-A,The Lamp,"3023 SE Milwaukie Ave, OPEN ONLY ON SHOW DAYS @ THE ALADDIN THEATER",Portland,97202,45.5007449,-122.6545463,4.0,,Mediterranean
+30939,6_Ae-u7e08IBmrI9IUNT7g,Rua,,Portland,97232,45.5212102,-122.6809134,3.5,,Vietnamese
+30988,xcLuF0F-zoQwWDKpQv8vyw,Mazatlan Mexican Restaurant,2050 Sw Morrison St,Portland,97205,45.5228101,-122.6936328,3.0,,Mexican
+30993,w_PKWoP1I5DeCHxEOL8iuw,Pacific Breeze,11525 SW Durham Rd,Tigard,97224,45.4051624873,-122.7951500547,4.0,,Thai
+30995,rmm9_7zPDrR3kHxmdELH1A,The Taco House Original,3211 NE 82nd Ave,Portland,97220,45.5455173,-122.5792493,2.0,,Mexican
+31049,-zn-lSmCS8A81TafzPFlhQ,Grapevine Restaurant,11525 SW Barnes Rd,Portland,97225,45.5170153,-122.7953047,3.0,,American (New)
+31050,IFPmBTf8Bw6n4RyV9y8THg,Scout Beer,1516 SE 10th Ave,Portland,97214,45.5119866,-122.6555017,4.0,,American (New)
+31061,cHNw64UPDVwTuMofcCsFzQ,Momiji Sushi Restaurant,8250 SW Barbur Blvd,Portland,97219,45.4652417,-122.6979699,4.0,Tasted fresh!,Japanese
+31146,bhfzhAnhEbE5ro6aNre8xw,Pollo Norte,2935 NE Glisan,Portland,97232,45.5267689,-122.6351449,4.0,Always ask for extra tortillas!,Mexican
+31148,Vj4v_eKUZqD9gHBhMlQDMA,Sila Thai Eatery,2730 N Killingsworth,Portland,97217,45.5624451,-122.6952494,3.5,,Thai
+31158,Nqy2tJV3AGqW9Uil-mzhGA,Khao San Pearl,"1435 NW Flanders St, Ste A",Portland,97209,45.5258341,-122.6860839,4.0,"There is a tuktuk inside the restaurant and you can eat inside the tuktuk on a first-come, first-served basis.",Thai
+31246,N9R_-doLaCivKmAEACtSEg,Tehuana Oaxacan Cuisine,1331 N Killingsworth St,Portland,97217,45.5628553,-122.6809901,5.0,Everything is so good! They're super fast too. Shrimp tacos are our favorite thing.,Mexican
+31254,RF3nrl8XfAp1LtXCrn74XA,Thai Nine,108 SW Pine St,Portland,97204,45.5209573,-122.6722422,4.5,This restaurant is now called Buranko. Different menu and atmosphere just same address.,Thai
+31288,DAJmECSYXazz49LRYYoNrw,Nob Hill Food Carts,1845 NW 23rd Pl,Portland,97210,45.5362680947,-122.6998748868,4.5,,Japanese
+31298,Iy0T3APXjj24vfHD0lyZGQ,Chipotle Mexican Grill,1948 SW Broadway,Portland,97201,45.5097999,-122.6845886,3.0,Stop charging for guacamole you stingy wankers,Mexican
+31303,sr8kHKKlrwyKZhCX3xPc7A,Panaderia Cinco De Mayo,17419 SE McLoughlin Blvd,Portland,97267,45.3962805,-122.6177853,4.0,,Mexican
+31413,75KateTUjJazpEVGcNcHJQ,Super Burrito Express,9019 N Lombard St,Portland,97203,45.5926822,-122.7569708,3.5,Love it!,Mexican
+31456,YVWKroWxha3LATGB2JvO3g,Hidden Bay Cafe,515 NE Tomahawk Island Dr,Portland,97217,45.6052759,-122.6584523,3.5,Stuff was very rude. Don't have desire to come back.,American (Traditional)
+31483,XXdWew_co85hzXncrsNxiA,Aybla Grill,SE 28th & SE Division,Portland,97202,45.50481,-122.63669,4.0,,Mediterranean
+31524,eaot-BCBn2SVgdxyATckVg,Jo Bar & Rotisserie,715 NW 23rd Ave,Portland,97210,45.5279447,-122.6987334,4.0,,American (New)
+31556,byi3QtpZ_A_dPMNQhE2vAw,Nuevo Mexico,N Mississippi Ave & N Skidmore St,Portland,97217,45.5546176,-122.6755129,3.5,,Mexican
+31557,KydCUySLrmwF2yZDH6_dAg,Siri Thai,5234 SE Powell Blvd,Portland,97206,45.4972656,-122.6082633,4.5,"Best curry in SE, maybe all of portland.",Thai
+31573,HkadlOCzd7LxcaEohvfl9A,Big's Chicken,4570 SW Watson Ave,Beaverton,97005,45.4866615,-122.8058581,4.0,One of the best chicken places in the entire metro area! A must try if you have not,American (Traditional)
+31684,5ppIw70QFy6RVmpyiyI_0Q,Ploy Thai,SW 5th Ave & SW Oak St,Portland,97204,45.5214517,-122.6760663,4.5,,Thai
+31721,SemS2JRwnjQwtJkDW1WzqQ,Guicho's Mexican Restaurant,6159 SW Murray Blvd,Beaverton,97007,45.4754409,-122.826928,3.5,,Mexican
+31734,dzQQPwHuS1DU7hmwDoWwiA,Thai Eastern Cusina,SW 3rd Ave & SW Washington St,Portland,97204,45.5195838,-122.6748057,2.0,,Thai
+31800,aF6KrA7hXf7xGIs0bGlBPw,Pok Pok Wing,3120 SE Milwaukie Ave,Portland,97202,45.5004295392,-122.6540160028,3.5,Awesome,Vietnamese
+31816,9LdZRadOxNbKs-5-DVEUXA,Ole Ole,2137 E Burnside St,Portland,97214,45.5231822,-122.6437529,4.0,Fabulous food!,Mexican
+31917,XDE4V1lWYzrBe92B9FRoDg,Canton Grill,2610 SE 82nd Ave,Portland,97266,45.5041785,-122.5783508,3.0,Service was excellent and staff was friendly. Food was good,American (Traditional)
+32069,ENwBByjpoa5Gg7tKgxqwLg,Javier's Taco Shop,121 N Lombard,Portland,97217,45.5774677,-122.6680447,3.0,This place is awesome and 24 hours!,Mexican
+32098,sx6iSaRiMSWtIStL1VYWcA,Emanon Cafe,1000 NW 17th Ave,Portland,97209,45.5301251,-122.6883001,3.5,,American (New)
+32154,_6Dz0BcV67fPiboqqPNvMQ,Walter Mitty's,11830 Kerr Pkwy,Lake Oswego,97035,45.4400797715,-122.7262115479,3.5,,American (New)
+32179,A91G1wtVXpRqxaNB8fHLfw,Szechuan Restaurant,8343 SW Barbur Blvd,Portland,97219,45.4646048,-122.6999787,3.5,,Chinese
+32202,v80iG8MI9CuvOGNXyKrhPQ,Hooters,11875 N Jantzen Beach,Portland,97217,45.6093239086,-122.6797805056,3.0,Sheri - the server. Horrible service!!,American (Traditional)
+32223,tyvd4F5V3_LAsDY5DZ507w,Bentoz Teriyaki,9107 SW Barbur Blvd,Portland,97219,45.459372,-122.7094143,4.0,"Fast, don't mess up my orders. Really good spicy chicken and yakiaoba",Japanese
+32323,vktOYKZfkV9h9zaxdIQfVg,Mummy's,622 SW Columbia St,Portland,97201,45.5143583,-122.6819046,3.0,Hole in the wall,American (Traditional)
+32359,jcH6v_lmhGirWYP64I24eg,Bird + Bear,2801 SE Holgate Blvd,Portland,97202,45.4905331,-122.6373884,4.0,"Fast and friendly service. 
+
+Chicken parm was good.",American (Traditional)
+32505,BAWOIYmeMaZKhDeThDwS0A,Thai Basil,SW 2nd & Oak,Portland,97255,45.5206514,-122.6731246,3.0,,Thai
+32549,elnr4-gJwYfUhc8SZLr1hA,Urban Fondue,2114 NW Glisan St,Portland,97210,45.526194,-122.694844,4.0,AMAZING!!! The dinner service food 10/10 would recommend!,American (New)
+32631,tbJ5c8LsnT6jIE_dkpIT6Q,Local 66 Bar and Grill,6618 SE Powell Blvd,Portland,97206,45.49724,-122.5950529,4.5,Absolutely one of the best places for amazingly good food and drinks,American (Traditional)
+32685,UH0KxI2ySS5iRHt1kEz-KQ,La Bonita,2839 NE Alberta St,Portland,97211,45.5591652,-122.6360591,4.0,Best breakfast burritos!!! Fresh & yummy,Mexican
+32718,Uo-eT1lomU6FoJBiuXEVaw,Goose Hollow Inn,1927 SW Jefferson St,Portland,97201,45.518256,-122.693835,4.0,I love everything about Goose Hollow Inn!!,American (Traditional)
+32750,zYn0jFP6tidoGrXgjhU0uQ,TAM,8235 SE 13th Ave,Portland,97202,45.4630383719,-122.6534231007,4.5,,Chinese
+32764,mHhD2ICjrZvJ3bab1PwEzw,Thai PK Restaurant,6141 SW Macadam Ave,Portland,97239,45.478836,-122.673238,4.0,Wonderfully delicious and with such a fast delivery!,Thai
+32774,1GvvpiPNaS-oSAo14g124w,Double Pepper,13816 NE Sandy Blvd,Portland,97230,45.553744,-122.520609,3.5,The owner refuses to accept their Yelp check-in offer.,Chinese
+32811,OK_LfUoKpGZx6AksGPbotw,Gubanc's Pub,16008 Boones Ferry Rd,Lake Oswego,97035,45.4096005,-122.7202091,3.5,"Atmosphere is cozy, drinks were great! Food was okay. I would go back for sure",American (Traditional)
+32826,aKr8OSB9B6MnKkVOGFneig,Mandi House,11535 SW Pacific Hwy,Tigard,97223,45.4416361,-122.7489133,3.5,,American (New)
+32861,Tf7USKC41mEp7J7IhsiUjw,Mike's Drive-In,1707 SE Tenino St,Portland,97202,45.463893,-122.646822,4.0,,American (Traditional)
+32867,TsSTWVT5plpFqjpW6oKtGg,Sel Gris,1852 SE Hawthorne Blvd,Portland,97214,45.5120873,-122.6463778,4.0,,American (New)
+32895,5cMJPLuVdDpWbMURi7wg7w,Vietnamese Banh-mi Sandwich Cart,SW 4th & College St,Portland,97201,45.5092013,-122.681601,3.5,,Vietnamese
+32946,VLAtdvpbNptuvz0dH0kwMQ,Bistro Asian,1900 NW 27th Ave,Portland,97210,45.536154,-122.7066736,3.0,,Japanese
+33101,zmiVoJuRBYiZGWAgeUOIUw,Nob Hill Bar & Grill,937 NW 23rd Ave,Portland,97210,45.5297025514,-122.698749632,3.5,,American (Traditional)
+33149,cPaIiiyYTkkJK8YOIXudtw,Waters Bar and Grille,7900 NE 82nd Ave,Portland,97220,45.579806,-122.572145,4.5,,American (Traditional)
+33152,LUAXB4wllUFcHbp_ZbAN8w,Juan Colorado,12272 SW Scholls Ferry Rd,Beaverton,97005,45.4429493,-122.8033393,3.0,,Mexican
+33161,15hXAJdSFKTuAkzmsfmHLQ,Lot Four Urban Eatery,1150 NW 9th Ave,Portland,97209,45.5311800217,-122.6802584632,3.5,,American (New)
+33256,03kruYCXHxj097eicu-3Cw,Nacheaux,8145 SE 82nd Ave,Portland,97266,45.4636025,-122.5796078,5.0,,Mexican
+33305,AHv9h6vrB4LcSKtmSL68IQ,Shine Distillery & Grill,4232 N Williams Ave,Portland,97217,45.5544197,-122.6663494,4.5,They do classic martinis!,American (Traditional)
+33309,UZ_-r0COZpbdJU8tot2bqg,Garden Bar by Evergreens,2045 SE Division St,Portland,97202,45.5050919,-122.6445852,4.0,Always the best customer service!,Mediterranean
+33310,qEJGykxRsiBn_2DXfUREFw,White Owl Social Club,1305 SE 8th Ave,Portland,97214,45.5134587,-122.657946,3.0,Airport prices for airport quality food and drinks. Nice outside patio.,American (New)
+33332,-F6NlEBUUf5PznCycJcOVg,Buddies Sports Bar & Grill,18520 SW Farmington Rd,Beaverton,97007,45.4746243,-122.8678414,4.0,Service is out of this world!  Food is great.,American (Traditional)
+33342,woE5aPi0VF0_tnGp3zfIMg,Bun Bo Hue Dong Ba 3,3246 NE 82nd Ave,Portland,97220,45.546172,-122.5785382,4.0,,Vietnamese
+33405,h8sDU3XI_-i4hmKSszhQSQ,Subway,"15983 SW 72nd Ave, Bldg A",Tigard,97224,45.4043979,-122.7497614,3.0,,American (Traditional)
+33466,CQxWir5pf19BTtA6C1_35A,Oda Ramen,3807 N Mississippi Ave,Portland,97227,45.5503135,-122.675782,4.0,,Japanese
+33515,dBWSEMJgogPWe95lktcINg,Sky Kitchen,1533 NE Alberta St,Portland,97211,45.5592787278,-122.6491657645,4.5,,Thai
+33548,tVYlrEWkluEe-XJ-aWRj6Q,Tong Thai Restaurant,"11705 SW Pacific Hwy, Ste C",Tigard,97223,45.4368612577,-122.7585311727,4.0,Got take out from here. Portions were generous and food was great!,Thai
+33571,__CskSr6YIhxxZYt9445Fg,Bradley's Bar & Grill,11995 N Center Ave,Portland,97217,45.60992,-122.6807574,3.0,,American (Traditional)
+33596,vvHgG2YRlPkwK7hLzkcglg,Medi Grill,2307 Lloyd Ctr,Portland,97232,45.5316594,-122.6545964,4.0,,Mediterranean
+33600,-KlfF_le09S_FP2QhLmS6g,Emily's Teriyaki and Pho,6036 SE Division St,Portland,97206,45.5052914501,-122.6007416102,3.5,,Vietnamese
+33626,0ZRpi6S6ogby5IALbpZVBg,Ruth's Chris Steak House,850 SW Broadway,Portland,97205,45.5181174367,-122.680084,4.0,Greedy and evil. Never again. Return the $20 million you took from us.,American (Traditional)
+33661,scKXS6WBzHtYVy0DIAlCFw,Hung Far Low,2410 SE 82nd Ave,Portland,97216,45.5051002502,-122.5782928467,2.5,,Chinese
+33678,BoNLZetAlzpkTUjxyRhIIw,Pokeritto,661 SE Belmont St,Portland,97214,45.5165995,-122.6591244,4.5,Delicious and affordable burritos! Crunchy is my favorite.,Japanese
+33685,J_zVs3IL60sa7zGaOGDwoQ,Mi Mero Mole,32 NW 5th Ave,Portland,97209,45.5236601,-122.6751497,4.0,Shit food Taco Bell is more Mexican then this shit hole,Mexican
+33725,rkHXp_-xrYzNJ_vjCJABqA,Marketplace Cafe,9700 SW Washington Square Rd,Tigard,97223,45.4509128,-122.7812834,4.0,,American (New)
+33824,mJa3aAdtFbSz7XRyq7IfHw,Pepino's Mexican Grill - Portland,3832 SE Hawthorne Blvd,Portland,97214,45.5118732,-122.623704,3.5,Me encanta Pepino's por su comida y su trato asía alas personas mi comida favorita,Mexican
+33851,6a9e3SVhp1H818UGpwOvGw,Chiang Mai,3145 SE Hawthorne Blvd,Portland,97214,45.5122323,-122.6328667,4.0,,Thai
+33912,hqLo_9L-FUJZa4z6uqdP7g,Rocio's,2850 SE Gladstone St,Portland,97202,45.493189,-122.6363311,4.0,Friendly service and delicious food. Glad to have found this spot!,Mexican
+33998,ExL3_Nd1FVOUjS7wZNOzbw,Egyptian Bros,113 SE 28th Ave,Portland,97214,45.521791,-122.6375755,4.5,Delicious. Love the chicken shawarma,Mediterranean
+34009,9UU_z68vovCvs2OERu6BKg,Aprisa Mexican Cuisine,2311 SE 8th Ave,Portland,97214,45.506254,-122.657987,4.0,Best breakfast burrito in the universe!,Mexican
+34015,bs8UXXkOkNOk-u_fLx-7dA,Yuki Japanese Restaurant,1337 NE Broadway St,Portland,97232,45.5351449,-122.6516198,3.5,,Japanese
+34023,7ir-1UF86euZr77zgwgDPg,The Roxy,1121 SW Stark St,Portland,97205,45.522538,-122.682636,3.5,Horrible service. The food isn't bad though.,American (Traditional)
+34051,WNYBC_hcwSI0ct-kQAYyMQ,Gastro Mania,7850 SW Capitol Hwy,Portland,97219,45.46763,-122.71382,3.5,,Mediterranean
+34074,IbgHsdQJEDugZgdbNnTdvQ,Gyro Town,8245 SE Division St,Portland,97266,45.5049183,-122.5777692,4.0,,Mediterranean
+34076,d69y3CN9_SQKrEnXXqQr8g,King Burrito Mexican Food,2924 N Lombard St,Portland,97217,45.5769598,-122.6970866,4.0,Great chicken burrito,Mexican
+34101,6lzt34EXu9gR8T50ljhnrA,Holdfast Dining,2131 SE 11th Ave,Portland,97214,45.521794602,-122.6599325231,4.5,"Sadly, they have closed their doors permanently.",American (New)
+34128,nVrdqYAJZLyihdnJ-XlEtA,Pica Pica Grill,438 SE Martin Luther King Jr Blvd,Portland,97214,45.5196185,-122.6614829,4.0,,Mexican
+34142,PwE8xaEksJPr5kCXW4lPBA,Alexandria Mediterranean Cuisine,420 SW College St,Portland,97201,45.5092094,-122.682232,4.0,,Mediterranean
+34339,oWhNifSWIfFEa0uaakj92w,Thai Hi 5 Restaurant,12406 SW Broadway St,Beaverton,97005,45.4873353,-122.8040979,4.0,,Thai
+34381,FBQp3R_PQIM9eGnkqzmlOw,Tasty n Alder,580 SW 12th Ave,Portland,97205,45.5213406,-122.6834773,4.5,Very good food and service but it can be hard to get in!,American (New)
+34454,TTCELxCaoTeJrO4Ck6VSNA,Thai Lahnna,7937 SE 13th Ave,Portland,97202,45.4666192,-122.6532237,3.5,,Thai
+34485,R3Raz3flSt8ITe-OZm0YeQ,Kesone,8145 SE 82nd Ave,Portland,97266,45.4636025,-122.5796078,3.5,"Terrible service, expensive and small portions.",Thai
+34498,ycblAFAoRmXNIXDuUCOaEg,Com Tam Sai Gon,8435 SE Powell Blvd,Portland,97266,45.4976815,-122.5758198,3.0,,Thai
+34570,OrBX9I8-QxIvaHG4euw4cQ,Honey Jar Cafe,13810 NE Sandy Blvd,Portland,97230,45.5538307053,-122.5205605069,4.0,Should change your sign.,Thai
+34617,WWlkufMDXMmgOjnD_s1Wfg,The Matador,2424 E Burnside St,Portland,97214,45.5226289,-122.6408777,3.5,Slow asssss service ... came in on. Saturday night and service was externally slow !,Mexican
+34643,q9STgjGYWC9QVO5YR4x2Hg,The Red Fig,4537 NE Fremont St,Portland,97213,45.5484433,-122.6163484,4.0,,American (New)
+34687,ISPiLbKxp9XXRArq8IgBAQ,El Pueblo,18901 E Burnside,Portland,97233,45.5200907,-122.4686892,2.5,,Mexican
+34828,psqZvk0lyOtEnq5KptF_VQ,Sunny's Diner,9993 SE 82nd Ave,Portland,97222,45.450946952,-122.5793891028,4.0,Great food and service. Will definitely go back.,American (Traditional)
+34904,PyAa51tNvFG5pNBKLATAeQ,Spud Locker,SW 2nd and Stark,Portland,97204,45.5199941,-122.6734836,3.5,,American (Traditional)
+34957,bg1MpNS2occNxzf1d2XFSw,Charley's Restaurant & Bar,435 NE Wasco St,Portland,97232,45.5325776,-122.661142,3.0,,American (New)
+34989,qYSb2KkBYjJyTTIdhiXbFA,Skin & Bones American Bistro,5425 E Burnside St,Portland,97215,45.5229038,-122.6078135,4.0,,American (New)
+35113,TiBodtlOdiwALvmhWfLNSA,Lin's China Jade,4050 SW Cedar Hills Blvd,Beaverton,97005,45.4905759,-122.8102306,3.5,We love all the food here. It's been a family favorite for 20+ years.,Chinese
+35179,IVv9n57Tbmf4kSgIWZUhKg,Creepy's,627 SE Morrison St,Portland,97214,45.5173439098,-122.6590959728,4.0,Loved that shit,American (Traditional)
+35263,Zl6SUy6x9jqjRu2HbtEO6A,Split Dine and Drink,7335 SW Bridgeport Rd,Tigard,97224,45.3944573,-122.7525349,2.0,,American (Traditional)
