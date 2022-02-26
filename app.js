@@ -1,33 +1,37 @@
-// Select the cuisine buttons
-var american = d3.select(".American");
-var mexican = d3.select(".Mexican");
-var japanese = d3.select(".Japanese");
-var thai = d3.select(".Thai");
-var mediterranean = d3.select(".Mediterranean");
+// Convert data in script as an array
+var data = [];
 
-// // Select the counter h3 element
-// var counter = d3.select(".counter");
+// Load data from csv file using D3.js 
+const dataArray = d3.csv("/yelp_dataset/final_busMOD.csv")
 
-// // Use D3 `.on` to attach a click handler for the upvote
-// upvote.on("click", function() {
-//   // Select the current count
-//   var currentCount = parseInt(counter.text());
+// Fetch csv data and console log it 
+d3.csv("/yelp_dataset/final_busMOD.csv", function(data) {
+   console.log(data)
+});
 
-//   // Upvotes should increment the counter
-//   currentCount += 1;
 
-//   // Set the counter h3 text to the new count
-//   counter.text(currentCount);
-// });
+// Button Event
+document.getElementById("american").addEventListener("click", console.log("hi"));
 
-// // Use d3 `.on` to attach a click handler for the downvote
-// downvote.on("click", function() {
-//   // Select the current count
-//   var currentCount = parseInt(counter.text());
+// Fetch Mexican Resturants
+d3.csv("/yelp_dataset/final_busMOD.csv", function(data) {
+    var cusines = data.cusines;
+    var name = data.name
+    if (cusines == "Mexican") {
+        console.log(name);
+    };  
+});
 
-//   // Downvotes should decrement the counter
-//   currentCount -= 1;
 
-//   // Set the counter h3 text to the new count
-//   counter.text(currentCount);
-// });
+// var mexican = data.cusines["Mexican"]
+
+// Sample Values
+// d3.json("/yelp_dataset/final_busMOD.csv").then((data) => {
+//     var sample = data.cusines.filter(function (objData){
+//         return objData == 
+//     });
+
+
+    
+
+
