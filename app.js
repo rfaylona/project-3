@@ -1,4 +1,4 @@
-// Select the upvote and downvote buttons
+// Select the cuisine buttons
 var american = d3.select(".American");
 var mexican = d3.select(".Mexican");
 var japanese = d3.select(".Japanese");
