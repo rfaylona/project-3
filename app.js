@@ -6,12 +6,11 @@ const dataArray = d3.csv("/yelp_dataset/final_busMOD.csv")
 
 // Fetch csv data and console log it 
 d3.csv("/yelp_dataset/final_busMOD.csv", function(data) {
-   console.log(data)
+//    console.log(data)
 });
 
-
-// Button Event
-document.getElementById("american").addEventListener("click", console.log("hi"));
+// Button Fetch
+document.getElementById("american").addEventListener("click", function(){ alert("Hello World!"); });
 
 // Fetch Mexican Resturants
 d3.csv("/yelp_dataset/final_busMOD.csv", function(data) {
