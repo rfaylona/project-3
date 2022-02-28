@@ -2,10 +2,10 @@
 var data = [];
 
 // Load data from csv file using D3.js 
-const dataArray = d3.csv("final_dataset_2_27.csv")
+const dataArray = d3.json("final_dataset_2_27.json")
 
 // Fetch csv data and console log it 
-d3.csv("final_dataset_2_27.csv", function(data) {
+d3.json("final_dataset_2_27.json", function(data) {
    console.log(data)
 });
 
@@ -15,13 +15,13 @@ document.getElementById("american").addEventListener("click",
 function(){ alert("Hello World!"); });
 
 // Fetch Mexican Resturants
-d3.csv("final_dataset_2_27.csv", function(data) {
-    var cusines = data.cusines;
-    var name = data.name
-    if (cusines == "Mexican") {
-        console.log(name);
-    };  
-});
+// d3.json("final_dataset_2_27.json", function(data) {
+//     var cusines = data.cusines;
+//     var name = data.name
+//     if (cusines == "Mexican") {
+//         console.log(name);
+//     };  
+// });
 
 
 // var mexican = data.cusines["Mexican"]
@@ -34,5 +34,16 @@ d3.csv("final_dataset_2_27.csv", function(data) {
 
 
     
-
+// function init (){
+//     var selector = d3.select("#selDataset");
+//     d3.json("./data/samples.json").then((data) => {
+//       var sampleNames = data.names;
+//       sampleNames.forEach((sample) => {
+//         selector
+//         .append("option")
+//         .text(sample)
+//         .property("value", sample);
+//       })
+//     })
+//   }
 
