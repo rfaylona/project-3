@@ -1,31 +1,51 @@
-body {
-    padding: 100;
-    margin: 100;
+.split {
+  height:100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* Left Side
+*/
+.left {
+  left: 0;
+  background-color: white;
+}
+
+/* Right Side
+*/
+.right {
+    right: 0;
+    
     background-color: #FFC000;
+
+   /*  h1 {
+      color: white;
+      text-align: center;
+      text-transform: uppercase;
+    } 
+
+    h6 {
+      color: white;
+    }
+
+    #map,
+    body,
+    html {
+      height: 100%;
+    }
+ 
+  .row {
+    min-height: 40vh;
   }
 
-  h1 {
-    color: white;
-    text-align: center;
-    text-transform: uppercase;
-  }
+  .dropdown {
+    padding-left:15px;
+    padding-right:15px;
+  } 
+ */
 
-  h6{
-    color: white;
-  }
-
-  #map,
-  body,
-  html {
-    height: 100%;
-  }
-
-.row {
-  min-height: 40vh;
 }
-
-.dropdown{
-  padding-left:15px;
-  padding-right:15px;
-}
-  
