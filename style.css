@@ -49,3 +49,49 @@
  */
 
 }
+
+body {
+  padding: 100;
+  margin: 100;
+  background-color: #FFC000;
+}
+
+
+h1 {
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+body, html {
+  height: 100%;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+.row {
+  min-height: 40vh;
+}
+
+.restaurant {
+  padding-bottom: 50px;
+}
+
+.restauarant-group {
+  color: white;
+  margin-left: 90px;
+  font-size: 1.1rem;
+}
+
+.chartBox {
+  display: flex;
+  justify-content: center;
+}
